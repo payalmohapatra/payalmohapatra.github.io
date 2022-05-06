@@ -6,6 +6,9 @@ main:
   - title: "Resources"
     url: /resources/   
 
+  - title: "Book Shelf"
+    url: /book_shelf/   
+
   # - title: "Talks"
   #   url: /talks/    
 

@@ -8,5 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Payal Mohapatra's home on the web.
-Das Vidanya!
+I am a first year PhD student in Computer Engineering and a part of [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) at Northwestern University, advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). <br>
+Prior to joining PhD, I worked as an IC design engineer with [Analog Devices Inc.](https://www.analog.com/), where I worked on metric driven and formal verification methods for application specific ICs aimed at industrial and consumer electronics. I have a Masters by Research in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/) during which I designed a sensing framework and algorithms for cardiac wearables.<br>
+I enjoy working on real world human-centric applications using methods inspired from computer science and health research. I am currently interested in solving problems of learning under resource-constrained environments. <br>
+
+You can reach me at payalmohapatra2026 at u dot northwestern dot edu.
+
+

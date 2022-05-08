@@ -13,5 +13,5 @@ Prior to joining Northwestern, I worked as an IC design engineer with [Analog De
 I enjoy working on real world human-centric applications using methods inspired from computer science and health research. I am currently interested in solving problems of learning under resource-constrained environments. <br>
 
 You can reach me at payalmohapatra2026 at u dot northwestern dot edu.
-
+[Link to my CV](https://www.dropbox.com/s/kpoe3u6fi0b8hqz/CV_Jan.pdf?dl=0)
 

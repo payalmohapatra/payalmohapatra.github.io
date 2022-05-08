@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Book Shelf"
+permalink: /book_shelf/
+author_profile: true
+---
+
 These are the books I have read in the past years.
 # 2022
 ## Fiction

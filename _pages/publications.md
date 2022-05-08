@@ -17,12 +17,12 @@ Conference, Workshops, Posters and Presentations
 
 
 "[PAST : Privacy Aware Speech Therapy](https://www.dropbox.com/s/ozbpyp5pgv2he5a/PAST_Poster_Payal.pdf?dl=0)" 
-- Design Automation Conference Young Fellowship, Virtual, Dec 2021 | [project video](https://www.youtube.com/watch?v=wM3RPnj7sVY)
+- Design Automation Conference Young Fellowship, Virtual, Dec 2021 [project video](https://www.youtube.com/watch?v=wM3RPnj7sVY)
 
 
 "Short-term HRV using acceleration PPG under severe ambient settings using in-house developed wearable"
 - IEEE Women's Technical Conference([WINTECHCON](https://wintechcon.com/assets/papers/2018/2018-wintechcon-final-program.pdf)), Bangalore, India, 2018
-- **Won best paper award in all tracks.** | [media](https://www.facebook.com/AnalogDevicesInc/posts/congratulations-to-payal-mohapatra-kneeling-left-on-her-award-for-best-paper-at-/2080443635312168/)
+- **Won best paper award in all tracks.** [media](https://www.facebook.com/AnalogDevicesInc/posts/congratulations-to-payal-mohapatra-kneeling-left-on-her-award-for-best-paper-at-/2080443635312168/)
 
 "IoT based Virtual Physiotherapy with Biofeedback"
 - Anveshan Design Fellowship, Analog Devices Inc., Bangalore, India, 2016

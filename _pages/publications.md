@@ -26,4 +26,4 @@ Conference, Workshops, Posters and Presentations
 
 "IoT based Virtual Physiotherapy with Biofeedback"
 - Anveshan Design Fellowship, Analog Devices Inc., Bangalore, India, 2016
-- **[Winning team of Anveshan 2016](https://www.analog.com/en/education/university-engagement/india/anveshan-2016-fellowship-winning-teams.html) ** 
+- **Winning team of Anveshan 2016** [media](https://www.analog.com/en/education/university-engagement/india/anveshan-2016-fellowship-winning-teams.html) 

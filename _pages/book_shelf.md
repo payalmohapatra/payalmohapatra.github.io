@@ -43,4 +43,4 @@ These are the books I have read in the past years.
 * Deep Work\*\*
 * An Astronaut's Guide to life on earth
 
-_ \*\* These are the books elicited strong emotions. I might have completed these books in less that five sittings. _
+*\*\* These are the books elicited strong emotions. I might have completed these books in less that five sittings.*

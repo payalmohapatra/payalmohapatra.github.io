@@ -7,16 +7,15 @@ author_profile: true
 
 These are the books I have read in the past years.
 # 2022
-## Fiction
+### Fiction
 * Anxious People
-
-## Non-Fiction
+### Non-Fiction
 * How to avoid a climate disaster\*\*
 * We should all be Feminists\*\*
 
 
 # 2021
-## Fiction
+### Fiction
 * The Boy, the Mole, the Fox and the Horse
 * Evil Eye
 * Poonachi (Regional Classic)
@@ -25,28 +24,23 @@ These are the books I have read in the past years.
 * Death under the Deodars
 * Heartburn
 
-## Non-Fiction
-#### Travel
+### Non-Fiction
 * Mussorie's Mythistory
-#### Autobiography
 * A Promised Land
 * What do you care what other people think?\*\*
-#### Health
 * The Body\*\*
-#### Productivity, life and other good advice
 * A Short History of Nearly Everything
 
 # 2020
-## Fiction
+### Fiction
 * Dollar Bahu
 * The Importance of being Ernest
 * The Forest of Enchantments
 * The Day I Stopped Drinking Milk
 * The Hitch-hiker's Guide to the Galaxy
-## Non-Fiction
+### Non-Fiction
 * Shoe Dog
 * Becoming
-#### Productivity and life and other good advice
 * Deep Work\*\*
 * An Astronaut's Guide to Life on Earth
 

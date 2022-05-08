@@ -9,6 +9,7 @@ These are the books I have read in the past years.
 # 2022
 ### Fiction
 * Anxious People
+
 ### Non-Fiction
 * How to avoid a climate disaster\*\*
 * We should all be Feminists\*\*
@@ -38,6 +39,7 @@ These are the books I have read in the past years.
 * The Forest of Enchantments
 * The Day I Stopped Drinking Milk
 * The Hitch-hiker's Guide to the Galaxy
+
 ### Non-Fiction
 * Shoe Dog
 * Becoming

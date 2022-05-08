@@ -5,7 +5,7 @@ These are the books I have read in the past years.
 
 ## Non-Fiction
 * How to avoid a climate disaster\*\*
-* We should all be feminists\*\*
+* We should all be Feminists\*\*
 
 
 # 2021
@@ -14,7 +14,7 @@ These are the books I have read in the past years.
 * Evil Eye
 * Poonachi (Regional Classic)
 * The Terrible Horrible very bad good news
-* A man called Ove\*\*
+* A Man called Ove\*\*
 * Death under the Deodars
 * Heartburn
 
@@ -27,20 +27,20 @@ These are the books I have read in the past years.
 #### Health
 * The Body\*\*
 #### Productivity and life and other good advice
-* A short history of nearly everything
+* A Short History of Nearly Everything
 
 # 2020
 ## Fiction
 * Dollar Bahu
-* The importance of being Ernest
+* The Importance of being Ernest
 * The Forest of Enchantments
-* The day I stopped drinking milk
-* The hitch-hiker's guide to the galaxy
+* The Day I Stopped Drinking Milk
+* The Hitch-hiker's Guide to the Galaxy
 ## Non-Fiction
 * Shoe Dog
 * Becoming
 #### Productivity and life and other good advice
 * Deep Work\*\*
-* An Astronaut's Guide to life on earth
+* An Astronaut's Guide to Life on Earth
 
-*\*\* These are the books elicited strong emotions. I might have completed these books in less that five sittings.*
+*\*\* These books elicited strong emotions. I have completed these in less that five sittings.*

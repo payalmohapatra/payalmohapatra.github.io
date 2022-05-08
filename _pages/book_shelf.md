@@ -4,8 +4,8 @@ These are the books I have read in the past years.
 * Anxious People
 
 ## Non-Fiction
-* How to avoid a climate disaster
-* We should all be feminists
+* How to avoid a climate disaster\*\*
+* We should all be feminists\*\*
 
 
 # 2021
@@ -14,7 +14,7 @@ These are the books I have read in the past years.
 * Evil Eye
 * Poonachi (Regional Classic)
 * The Terrible Horrible very bad good news
-* A man called Ove
+* A man called Ove\*\*
 * Death under the Deodars
 * Heartburn
 
@@ -23,9 +23,9 @@ These are the books I have read in the past years.
 * Mussorie's Mythistory
 #### Autobiography
 * A Promised Land
-* What do you care what other people think?
+* What do you care what other people think?\*\*
 #### Health
-* The Body
+* The Body\*\*
 #### Productivity and life and other good advice
 * A short history of nearly everything
 
@@ -40,5 +40,7 @@ These are the books I have read in the past years.
 * Shoe Dog
 * Becoming
 #### Productivity and life and other good advice
-* Deep Work
+* Deep Work\*\*
 * An Astronaut's Guide to life on earth
+
+_ \*\* These are the books elicited strong emotions. I might have completed these books in less that five sittings. _

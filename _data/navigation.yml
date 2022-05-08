@@ -2,12 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
-  
-  - title: "Resources"
-    url: /resources/   
-
-  - title: "Book Shelf"
-    url: /book_shelf/   
+   
 
   # - title: "Talks"
   #   url: /talks/    
@@ -23,6 +18,12 @@ main:
     
   - title: "CV"
     url: https://github.com/payalmohapatra.github.io/_cv/CV_Jan.pdf
+
+  - title: "Resources"
+    url: /resources/   
+
+  - title: "Book Shelf"
+    url: /book_shelf/    
     
   # - title: "Guide"
   #   url: /markdown/

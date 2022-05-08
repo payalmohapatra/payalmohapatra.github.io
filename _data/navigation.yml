@@ -17,7 +17,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: https://github.com/payalmohapatra.github.io/_cv/CV_Jan.pdf
+    url: /cv/
 
   - title: "Resources"
     url: /resources/   

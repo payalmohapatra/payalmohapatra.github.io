@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[CV](https://github.com/payalmohapatra.github.io/_cv/CV_Jan.pdf)
 {% include base_path %}
 
 Education

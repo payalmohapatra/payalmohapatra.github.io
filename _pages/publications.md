@@ -16,7 +16,7 @@ Conference, Workshops, Posters and Presentations
 
 
 
-2. "[PAST : Privacy Aware Speech Therapy" [[poster]](https://www.dropbox.com/s/ozbpyp5pgv2he5a/PAST_Poster_Payal.pdf?dl=0)
+2. "PAST : Privacy Aware Speech Therapy" [[poster]](https://www.dropbox.com/s/ozbpyp5pgv2he5a/PAST_Poster_Payal.pdf?dl=0)
     - Design Automation Conference Young Fellowship, Virtual, Dec 2021 [[project video]](https://www.youtube.com/watch?v=wM3RPnj7sVY)
 
 

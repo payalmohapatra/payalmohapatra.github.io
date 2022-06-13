@@ -11,13 +11,13 @@
 */
 
 // @import "minimal-mistakes/skins/default"; //skins import
-@import "minimal-mistakes";
+// @import "minimal-mistakes";
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
 
-$link-color: rgba(209, 71, 12, 0.696);
+// $link-color: rgba(209, 71, 12, 0.696);
 
 @import "reset";
 @import "base";

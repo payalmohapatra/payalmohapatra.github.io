@@ -4,8 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Mohapatra, Payal**, Pandey, Akash, Islam, Bashima & Zhu,Qi (2022). Speech Disfluency Detection with Contextual Representation and Data Distillation, ACM International Workshop on
-Intelligent Acoustic Systems and Applications (IASA 2022) -- *accepted*
+<!-- **Mohapatra, Payal**, Pandey, Akash, Islam, Bashima & Zhu,Qi (2022). Speech Disfluency Detection with Contextual Representation and Data Distillation, ACM International Workshop on
+Intelligent Acoustic Systems and Applications (IASA 2022) -- *accepted* -->
+
+**Mohapatra, Payal**, Akash Pandey, Bashima Islam, and Qi Zhu. "Speech Disfluency Detection with Contextual Representation and Data Distillation." In Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications, pp. 19-24. 2022.
+
 
 **Mohapatra, Payal**, Preejith Sreeletha Premkumar, and Mohanasankar Sivaprakasam. "[**A yellow–orange wavelength-based short-term heart rate variability measurement scheme for wrist-based wearables.**](https://ieeexplore.ieee.org/abstract/document/8253824)" IEEE Transactions on Instrumentation and Measurement 67, no. 5 (2018): 1091-1101.
 

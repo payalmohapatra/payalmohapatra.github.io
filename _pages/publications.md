@@ -7,12 +7,12 @@ author_profile: true
 <!-- **Mohapatra, Payal**, Pandey, Akash, Islam, Bashima & Zhu,Qi (2022). Speech Disfluency Detection with Contextual Representation and Data Distillation, ACM International Workshop on
 Intelligent Acoustic Systems and Applications (IASA 2022) -- *accepted* -->
 
-**Mohapatra, Payal**, Akash Pandey, Bashima Islam, and Qi Zhu. "Speech Disfluency Detection with Contextual Representation and Data Distillation." In Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications, pp. 19-24. 2022.
+**Mohapatra, Payal**, Akash Pandey, Bashima Islam, and Qi Zhu. "[**Speech Disfluency Detection with Contextual Representation and Data Distillation.**]"(https://dl.acm.org/doi/abs/10.1145/3539490.3539601) In Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications, 2022. [video](https://youtu.be/PqNO8Jy-a-s)
 
 
-**Mohapatra, Payal**, Preejith Sreeletha Premkumar, and Mohanasankar Sivaprakasam. "[**A yellow–orange wavelength-based short-term heart rate variability measurement scheme for wrist-based wearables.**](https://ieeexplore.ieee.org/abstract/document/8253824)" IEEE Transactions on Instrumentation and Measurement 67, no. 5 (2018): 1091-1101.
+**Mohapatra, Payal**, Preejith Sreeletha Premkumar, and Mohanasankar Sivaprakasam. "[**A yellow–orange wavelength-based short-term heart rate variability measurement scheme for wrist-based wearables.**](https://ieeexplore.ieee.org/abstract/document/8253824)" IEEE Transactions on Instrumentation and Measurement, 2018.
 
-**Mohapatra, Payal**, S. P. Preejith, and Mohanasankar Sivaprakasam. "[**A novel sensor for wrist based optical heart rate monitor.**](https://ieeexplore.ieee.org/abstract/document/7969842)" In 2017 IEEE international instrumentation and measurement technology conference (I2MTC), pp. 1-6. IEEE, 2017.
+**Mohapatra, Payal**, S. P. Preejith, and Mohanasankar Sivaprakasam. "[**A novel sensor for wrist based optical heart rate monitor.**](https://ieeexplore.ieee.org/abstract/document/7969842)" In 2017 IEEE international instrumentation and measurement technology conference (I2MTC), 2017.
 
 Conference, Workshops, Posters and Presentations
 ------

@@ -32,8 +32,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 ## Services
 * External reviewer : NSys'22, BuildSys'22, ICCPS'23
-* Mentoring : 
-
+* Mentoring 
   * 2022 : Devashri Naik, Jinjin Cai (MS, Northwestern University)
   * 2023 : Shangke Liu,  Yuqi Ma (MS students, Northwestern University)
 

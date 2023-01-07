@@ -25,16 +25,17 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 * [**January, 2022**] - Participating in two ICASSP signal processing grand challenges. One with biosignal based person identification and another with match-mismatch identification for audio-EEG.
 * [**December, 2022**] - Demonstrated final working prototype of fatigue prediction in workers with near-real-time visualisation at the Boeing, Everett, Washington, factory floor.
 * [**October, 2022**] - Submitted our paper on *efficiency of small-scale task-specific pretraining for disfluency detection* to ICASSP'23.
-* [**August, 2022**] - Demonstrated initial working prototype of fatigue prediction in workers with near-real-time visualisation at the John Deere, Knoxville, Tennese, factory floor.
+* [**August, 2022**] - Demonstrated initial working prototype of fatigue prediction in workers with near-real-time visualisation at the John Deere, Knoxville, Tennesse, factory floor.
 * [**July, 2022**] - Presented *Speech Disfluency Detection with Contextual Representation and Data Distillation* at Intelligent Acoustic Systems and Applications co-located with MobiSys'22.
-* [**April, 2022**] - Presented poster on *Speech Disfluency Detection under data-constraints* at CRA-WP grad cohort at New Orlean, Louisiana.
+* [**April, 2022**] - Presented poster on *Speech Disfluency Detection under data-constraints* at CRA-WP grad cohort at New Orleans, Louisiana.
 
 
 ## Services
 * External reviewer : NSys'22, BuildSys'22, ICCPS'23
 * Mentoring 
-  * 2022 : Devashri Naik, Jinjin Cai (MS, Northwestern University)
   * 2023 : Shangke Liu,  Yuqi Ma (MS students, Northwestern University)
+  * 2022 : Devashri Naik, Jinjin Cai (MS, Northwestern University)
+  
 
 ## Manuscripts under preparation
 * Predictive Methods for Estimating Physical Fatigue in Manufacturing Workers

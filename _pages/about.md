@@ -22,6 +22,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 
 ## News
+* I will be interning with the Audio Hardware Team at Meta, Redmond, WA this summer as a Research Scientist.
 * [**February, 2022**] - Our paper on *EFFICIENT STUTTERING EVENT DETECTION USING SIAMESE NETWORKS* is accepted in ICASSP'23.
 * [**February, 2022**] - Secured third place in  *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals Challenge* in ICASSP'23. Invited to present a paper on methodology.
 * [**December, 2022**] - Demonstrated final working prototype of fatigue prediction in workers with near-real-time visualisation at the Boeing, Everett, Washington, factory floor.

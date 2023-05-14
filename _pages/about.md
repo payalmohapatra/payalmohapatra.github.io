@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in Computer Engineering and a part of [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) at Northwestern University, advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). <br>
+I am a second year PhD candidate in Computer Engineering and a part of [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) at Northwestern University, advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). <br>
 
 I enjoy working on real world human-centric applications using methods inspired from computer science and health research. I am interested in investigating techniques to use data-driven methods with non-manicured datasets under practical challenges (lack of data and labels, data quality, multi-modal learning and sensor fusion, issue of missing modality etc.).
 
@@ -23,6 +23,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 ## News
 * I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist.
+* [**May, 2023**] - We are participanting in the ACM Multimedia 2023 Computational Paralinguistics Challenge (ComParE).
 * [**February, 2023**] - Our paper on *EFFICIENT STUTTERING EVENT DETECTION USING SIAMESE NETWORKS* is accepted in ICASSP'23.
 * [**February, 2023**] - Secured third place in  *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals Challenge* in ICASSP'23. Invited to present a paper on methodology - *PERSON IDENTIFICATION WITH WEARABLE SENSING USING MISSING FEATURE ENCODING AND MULTI-STAGE MODALITY FUSION*.
 * [**December, 2022**] - Demonstrated final working prototype of fatigue prediction in workers with near-real-time visualisation at the Boeing, Everett, Washington, factory floor.
@@ -36,7 +37,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 * External reviewer : NSys'22, BuildSys'22, ICCPS'23
 * Mentoring 
   * 2023 : 
-    * Shangke Liu,  Yuqi Ma (MS students, Computer Engineering, Northwestern University)
+    * Shangke Liu,  Yuqi Ma, Yueyuan Sui (MS students, Computer Engineering, Northwestern University)
     * Jonathan Li Chen, Ben Forbes, Justin Lau (Undergraduate students, Mechanical Engineering(Mentored for a course project on sensor data analysis for injury detecion), Northwestern University)
 
   * 2022 : Devashri Naik, Jinjin Cai (MS, Computer Engineering, Northwestern University)

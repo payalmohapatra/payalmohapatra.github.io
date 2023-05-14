@@ -22,8 +22,8 @@ main:
   # - title: "Resources"
   #   url: /resources/   
 
-  - title: "Book Shelf"
-    url: /book_shelf/    
+  # - title: "Book Shelf"
+  #   url: /book_shelf/    
     
-  # - title: "Guide"
-  #   url: /markdown/
+  # - title: "Beyond Academics"
+  #   url: /beyond_academics/

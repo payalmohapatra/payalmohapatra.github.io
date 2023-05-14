@@ -7,9 +7,9 @@ author_profile: true
 <!-- **Mohapatra, Payal**, Pandey, Akash, Islam, Bashima & Zhu,Qi (2022). Speech Disfluency Detection with Contextual Representation and Data Distillation, ACM International Workshop on
 Intelligent Acoustic Systems and Applications (IASA 2022) -- *accepted* -->
 
-**Mohapatra, Payal**, Bashima Islam, Md Tamzeed Islam, Ruochen Jiao, and Qi Zhu. "[**Efficient Stuttering Event Detection Using Siamese Networks.**]" In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2023.
+**Mohapatra, Payal**, Bashima Islam, Md Tamzeed Islam, Ruochen Jiao, and Qi Zhu. "[**Efficient Stuttering Event Detection Using Siamese Networks.**](https://ieeexplore.ieee.org/abstract/document/10094692)" In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2023.
 
-**Mohapatra, Payal**, Akash Pandey, Sinan Keten, Wei Chen, and Qi Zhu. "[**Person Identification with Wearable Sensing Using Missing Feature Encoding and Multi-Stage Modality Fusion.**]" In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2023.
+**Mohapatra, Payal**, Akash Pandey, Sinan Keten, Wei Chen, and Qi Zhu. "[**Person Identification with Wearable Sensing Using Missing Feature Encoding and Multi-Stage Modality Fusion.**](https://ieeexplore.ieee.org/abstract/document/10097005)" In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2023.
 
 
 **Mohapatra, Payal**, Akash Pandey, Bashima Islam, and Qi Zhu. "[**Speech Disfluency Detection with Contextual Representation and Data Distillation.**](https://dl.acm.org/doi/abs/10.1145/3539490.3539601)" In Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications, 2022. [[video]](https://youtu.be/PqNO8Jy-a-s)

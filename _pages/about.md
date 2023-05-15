@@ -27,7 +27,6 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 * [**February, 2023**] - Our paper on *EFFICIENT STUTTERING EVENT DETECTION USING SIAMESE NETWORKS* is accepted in ICASSP'23.
 * [**February, 2023**] - Secured third place in  *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals Challenge* in ICASSP'23. Invited to present a paper on methodology - *PERSON IDENTIFICATION WITH WEARABLE SENSING USING MISSING FEATURE ENCODING AND MULTI-STAGE MODALITY FUSION*.
 * [**December, 2022**] - Demonstrated final working prototype of fatigue prediction in workers with near-real-time visualisation at the Boeing, Everett, Washington, factory floor.
-* [**October, 2022**] - Submitted our paper on *efficiency of small-scale task-specific pretraining for disfluency detection* to ICASSP'23.
 * [**August, 2022**] - Demonstrated initial working prototype of fatigue prediction in workers with near-real-time visualisation at the John Deere, Knoxville, Tennesse, factory floor.
 * [**July, 2022**] - Presented *Speech Disfluency Detection with Contextual Representation and Data Distillation* at Intelligent Acoustic Systems and Applications co-located with MobiSys'22.
 * [**April, 2022**] - Presented poster on *Speech Disfluency Detection under data-constraints* at CRA-WP grad cohort at New Orleans, Louisiana.

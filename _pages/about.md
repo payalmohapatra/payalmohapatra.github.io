@@ -22,8 +22,8 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 
 ## News
-* I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist.
-* [**May, 2023**] - We are participanting in the ACM Multimedia 2023 Computational Paralinguistics Challenge (ComParE).
+* I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee).
+* [**May, 2023**] - We are participating in the ACM Multimedia 2023 Computational Paralinguistics Challenge (ComParE).
 * [**February, 2023**] - Our paper on *EFFICIENT STUTTERING EVENT DETECTION USING SIAMESE NETWORKS* is accepted in ICASSP'23.
 * [**February, 2023**] - Secured third place in  *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals Challenge* in ICASSP'23. Invited to present a paper on methodology - *PERSON IDENTIFICATION WITH WEARABLE SENSING USING MISSING FEATURE ENCODING AND MULTI-STAGE MODALITY FUSION*.
 * [**December, 2022**] - Demonstrated final working prototype of fatigue prediction in workers with near-real-time visualisation at the Boeing, Everett, Washington, factory floor.

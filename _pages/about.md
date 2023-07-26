@@ -22,6 +22,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 
 ## News
+* [**July, 2023**] - Our paper on the *Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks* has been accepted for ACM Multimedia 2023 Multimedia Grand Challenges Track.
 * I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee).
 * [**May, 2023**] - We are participating in the ACM Multimedia 2023 Computational Paralinguistics Challenge (ComParE).
 * [**February, 2023**] - Our paper on *EFFICIENT STUTTERING EVENT DETECTION USING SIAMESE NETWORKS* is accepted in ICASSP'23.
@@ -33,10 +34,11 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 
 ## Services
-* External reviewer : NSys'22, BuildSys'22, ICCPS'23
+* External reviewer : NSys'22, BuildSys'22, ICCPS'23, NeurIPS'23
+* I participate in the weekly [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern University.
 * Mentoring 
   * 2023 : 
-    * Shangke Liu,  Yuqi Ma, Yueyuan Sui (MS students, Computer Engineering, Northwestern University)
+    * Shangke Liu,  Yuqi Ma, Yueyuan Sui, Shamika Likhite(MS students, Computer Engineering, Northwestern University)
     * Jonathan Li Chen, Ben Forbes, Justin Lau (Undergraduate students, Mechanical Engineering(Mentored for a course project on sensor data analysis for injury detecion), Northwestern University)
 
   * 2022 : Devashri Naik, Jinjin Cai (MS, Computer Engineering, Northwestern University)

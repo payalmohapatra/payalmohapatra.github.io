@@ -7,6 +7,9 @@ author_profile: true
 <!-- **Mohapatra, Payal**, Pandey, Akash, Islam, Bashima & Zhu,Qi (2022). Speech Disfluency Detection with Contextual Representation and Data Distillation, ACM International Workshop on
 Intelligent Acoustic Systems and Applications (IASA 2022) -- *accepted* -->
 
+**Mohapatra, Payal**, Akash Pandey, Yueyuan Sui, and Qi Zhu. 2023. [**Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks**](https://arxiv.org/pdf/2308.14359.pdf). In Proceedings of the 31st ACM International Conference on Multimedia (MM '23).
+
+
 **Mohapatra, Payal**, Bashima Islam, Md Tamzeed Islam, Ruochen Jiao, and Qi Zhu. "[**Efficient Stuttering Event Detection Using Siamese Networks.**](https://ieeexplore.ieee.org/abstract/document/10094692)" In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2023.
 
 **Mohapatra, Payal**, Akash Pandey, Sinan Keten, Wei Chen, and Qi Zhu. "[**Person Identification with Wearable Sensing Using Missing Feature Encoding and Multi-Stage Modality Fusion.**](https://ieeexplore.ieee.org/abstract/document/10097005)" In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2023.
@@ -24,8 +27,6 @@ Conference, Workshops, Posters and Presentations
 
 1. "Detecting Speech Disfluencies in a Data Constrained Setting" [[poster]](https://www.dropbox.com/s/7cp6aqu3ts89bu5/CRA2022_poster_v2.pdf?dl=0)
     - Computing Research Association Widening Participation, Grad Cohort Workshop for Women, New Orleans, USA, April 2022
-
-
 
 2. "PAST : Privacy Aware Speech Therapy" [[poster]](https://www.dropbox.com/s/ozbpyp5pgv2he5a/PAST_Poster_Payal.pdf?dl=0)
     - Design Automation Conference Young Fellowship, Virtual, Dec 2021 [[project video]](https://www.youtube.com/watch?v=wM3RPnj7sVY)

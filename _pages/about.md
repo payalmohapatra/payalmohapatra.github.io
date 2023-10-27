@@ -17,14 +17,14 @@ Another aspect I wish to drive through my research is inclusivity in technology.
 Prior to joining Northwestern, I worked as an IC design engineer with [Analog Devices Inc.](https://www.analog.com/), where I developed metric driven and formal verification methods for application specific ICs aimed at industrial and consumer electronics. I have a Masters by Research in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/) during which I designed [sensing and algorithms framework for cardiac wearables](https://prezi.com/p/6t5mfk8bzu04/ms-seminar-1/).<br>
 
 You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
-[Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_2023.pdf) (last updated on January 2023)
+[Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_2023.pdf) (last updated on October 2023)
 <!-- [Link to my CV](https://www.dropbox.com/s/kpoe3u6fi0b8hqz/CV_Jan.pdf?dl=0) -->
 
 
 ## News
 * [**October, 2023**] - Corresponding with Meta Reality Labs, Audio Research group as a part-time student researcher.
 * [**July, 2023**] - Our paper on the *Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks* has been accepted for ACM Multimedia 2023 Multimedia Grand Challenges Track.
-* I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee).
+* [**June, 2023**] - I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee).
 * [**May, 2023**] - We are participating in the ACM Multimedia 2023 Computational Paralinguistics Challenge (ComParE).
 * [**February, 2023**] - Our paper on *EFFICIENT STUTTERING EVENT DETECTION USING SIAMESE NETWORKS* is accepted in ICASSP'23.
 * [**February, 2023**] - Secured third place in  *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals Challenge* in ICASSP'23. Invited to present a paper on methodology - *PERSON IDENTIFICATION WITH WEARABLE SENSING USING MISSING FEATURE ENCODING AND MULTI-STAGE MODALITY FUSION*.

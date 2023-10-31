@@ -23,7 +23,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 <div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display">
-        <h2><br>Time Series AI
+        <h2>Time Series AI
         </h2>
         Exploring fundamental time-series properties like non-stationarity, within population/sensors variation in lower frequencies etc. to learn domain agnostic representation that can help in improving the generalisation performance. 
     </div>

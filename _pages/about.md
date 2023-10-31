@@ -23,16 +23,16 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 <div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display">
-        <h2>Time Series AI
+        <h2><br>Time Series AI
         </h2>
         Exploring fundamental time-series properties like non-stationarity, within population/sensors variation in lower frequencies etc. to learn domain agnostic representation that can help in improving the generalisation performance. 
     </div>
     <div style="display">
-        <h2>Resource-limited Speech Disfluency </h2>
+        <h2><br>Resource-limited Speech Disfluency </h2>
         Curated a multi-modal (audio-visual-text) dataset for speech disfluency. Exploring techniques to translate large-scale multi-modal speech-focused models in a resource-constrained paralinguistic task.
     </div>
     <div style="display">
-        <h2>Human-Centred <br> AI </h2>
+        <h2><br>Human-Centred <br> AI </h2>
         Working on low-resource personalisation on real-world sensor data-sets which addressing practical challenges of missing data in multi-variate inputs, continual learning for categorical target beyond support-set etc.
     </div>
 </div>

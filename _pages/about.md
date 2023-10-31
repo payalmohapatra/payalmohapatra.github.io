@@ -33,7 +33,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
     </div>
     <div style="display">
         <h2><br>Human-Centred <br> AI </h2>
-        Working on low-resource personalisation on real-world sensor data-sets which addressing practical challenges of missing data in multi-variate inputs, continual learning for categorical target beyond support-set etc. with a goal of demonstrating performance on-device.
+        Working on low-resource personalisation on real-world sensor datasets which addressing practical challenges of missing data in multi-variate inputs, continual learning for categorical target beyond support-set etc. with a goal of demonstrating performance on-device.
     </div>
 </div>
 

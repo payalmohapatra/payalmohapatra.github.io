@@ -18,8 +18,29 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 [Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_2023.pdf) (last updated on October 2023)
 <!-- [Link to my CV](https://www.dropbox.com/s/kpoe3u6fi0b8hqz/CV_Jan.pdf?dl=0) -->
 
+# Ongoing Projects
+<!-- Source -- https://stackoverflow.com/questions/30514408/have-two-columns-in-markdown -->
 
-## News
+<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display">
+        <h2>Time Series AI
+        </h2>
+        Exploring fundamental time-series properties like non-stationarity, within population/sensors variation in lower frequencies etc. to learn domain agnostic representation that can help in improving the generalisation performance. 
+    </div>
+    <div style="display">
+        <h2>Resource-limited Speech Disfluency </h2>
+        Curated a multi-modal (audio-visual-text) dataset for speech disfluency. Exploring techniques to translate large-scale multi-modal speech-focused models in a resource-constrained paralinguistic task.
+    </div>
+    <div style="display">
+        <h2>Human-Centred <br> AI </h2>
+        Working on low-resource personalisation on real-world sensor data-sets which addressing practical challenges of missing data in multi-variate inputs, continual learning for categorical target beyond support-set etc.
+    </div>
+</div>
+
+        
+        
+
+# News
 * [**October, 2023**] - Corresponding with Meta Reality Labs, Audio Research group as a part-time student researcher.
 * [**July, 2023**] - Our paper on the *Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks* has been accepted for ACM Multimedia 2023 Multimedia Grand Challenges Track.
 * [**June, 2023**] - I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee).
@@ -32,12 +53,11 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 * [**April, 2022**] - Presented poster on *Speech Disfluency Detection under data-constraints* at CRA-WP grad cohort at New Orleans, Louisiana.
 
 
-## Services
+# Services
 * External reviewer : ICASSP'24, Cambridge University Press early reader's reviewing(Why Does Math Work … If It's Not Real?)
 * I participate in the weekly [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern University.
   Here are a few topics I have discussed here - [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning beyond audio-vision](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4)
 * Mentoring 
-  
   * 2023 : 
     * Shangke Liu,  Yuqi Ma, Yueyuan Sui, Shamika Likhite (MS students, Computer Engineering, Northwestern University)
     * Brooks Hu, Kiva Joseph ((Undergraduate students, Computer Engineering, Northwestern University))
@@ -46,8 +66,9 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
   * 2022 : Devashri Naik, Jinjin Cai (MS, Computer Engineering, Northwestern University)
   
 
-## Manuscripts under preparation
+# Manuscripts under preparation
 * Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers
+* Real-time Discreet Non-Verbal Communication Technology for AR glasses
 
 
 

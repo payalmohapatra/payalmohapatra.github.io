@@ -4,8 +4,8 @@ main:
     url: /publications/
    
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Beyond Academics"
+    url: /beyond_academics/
 
   # - title: "Resources"
   #   url: /resources/   

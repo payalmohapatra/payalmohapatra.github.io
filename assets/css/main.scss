@@ -11,7 +11,10 @@
 */
 // @import "minimal-mistakes/skins/default"; //skins import
 // @import "minimal-mistakes";
-// $link-color: rgba(177, 32, 13, 0.696);
+// 
+
+// Change the theme of the page
+@import "minimal-mistakes/skins/air"; //skins import
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";

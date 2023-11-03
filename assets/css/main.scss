@@ -9,10 +9,9 @@
  *  - https://twitter.com/mmistakes
  *
 */
-
-// @import "minimal-mistakes/skins/default"; //skins import
-// @import "minimal-mistakes";
-$link-color: rgba(177, 32, 13, 0.696);
+@import "minimal-mistakes/skins/default"; //skins import
+@import "minimal-mistakes";
+// $link-color: rgba(177, 32, 13, 0.696);
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -43,4 +42,4 @@ $link-color: rgba(177, 32, 13, 0.696);
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-$masthead-link-color: rgba(177, 32, 13, 0.696);
+// $masthead-link-color: rgba(177, 32, 13, 0.696);

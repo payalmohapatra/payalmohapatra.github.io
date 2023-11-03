@@ -11,6 +11,7 @@ I love living vicariously through books. Here is my [digital bookshelf](https://
 # Favorites on Youtube and Pocasts
 * [Jason Lewis - Mind Amend](https://www.youtube.com/@MindAmend/playlists) (I cannot recommend this playlist enough for work)
 * [Huberman's Lab](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vaHViZXJtYW5sYWI?sa=X&ved=2ahUKEwiaj_Cp1KiCAxU1kYkEHQcCB1QQ9sEGegQIARAE) - [[My Scribble Notes]](https://payal-mohapatra.notion.site/Huberman-s-Podcast-Notes-14e7eda49f1847cc8ad569723fa5e467?pvs=4)
+* [Ms Coffee Bean] (https://www.youtube.com/@AICoffeeBreak)
 * [The Robot Brains Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL3RoZS1yb2JvdC1icmFpbnM)
 
 # Food

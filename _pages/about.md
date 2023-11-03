@@ -56,7 +56,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 # Services
 * External reviewer : ICASSP'24, Cambridge University Press early reader's reviewing(Why Does Math Work … If It's Not Real?)
 * I participate in the weekly [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern University.
-  Here are a few topics I have discussed here - [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning beyond audio-vision](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4)
+  Here are a few topics I have discussed here - [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning beyond audio-vision](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), Non-Stationary Transformers
 * Mentoring 
   * 2023 : 
     * Shangke Liu,  Yuqi Ma, Yueyuan Sui, Shamika Likhite (MS students, Computer Engineering, Northwestern University)

@@ -13,6 +13,7 @@ I love living vicariously through books. Here is my [digital bookshelf](https://
 * [Huberman's Lab](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vaHViZXJtYW5sYWI?sa=X&ved=2ahUKEwiaj_Cp1KiCAxU1kYkEHQcCB1QQ9sEGegQIARAE) - [[My Scribble Notes]](https://payal-mohapatra.notion.site/Huberman-s-Podcast-Notes-14e7eda49f1847cc8ad569723fa5e467?pvs=4)
 * [Ms Coffee Bean](https://www.youtube.com/@AICoffeeBreak)
 * [The Robot Brains Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL3RoZS1yb2JvdC1icmFpbnM)
+* [James Hoffman](https://www.youtube.com/@jameshoffmann)
 
 # Food
 In one of my past lives, I was an ardent food blogger but now as a grad student I resort to less documentation and more nourishment. Here is make-shift [recipe book](https://www.notion.so/payal-mohapatra/4a9f711a135c4380b869ebf733d3b45b?v=0393ba157cf84538a121384a9af8fda1&pvs=4) which hopefully some day I will clean up! (If you look closely you can locate some regional dishes from my native state in India - Odisha, passed down by my mother.)

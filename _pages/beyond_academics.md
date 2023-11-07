@@ -25,7 +25,7 @@ I love running outdoors and over the years I have increased my race distances.
 * Hot Chocolate Race, Chicago, USA, 2022 - 15km
 * Chicago Half Marathon, Chicago, USA, 2023 - 21km
 
-I was introduced to running by my (amazing) [partner](https://pandeyakash23.github.io/akashapandey.github.io//) and the beautiful backdrop of IIT Madras was a positive catalyst. From then on I have been blessed with gorgeous running courses or may be you enjoy the ambience a bit more when in motion ;)
+I was introduced to running by my (amazing) [partner](https://pandeyakash23.github.io/akashapandey.github.io//) and the beautiful backdrop of IIT Madras was a positive catalyst. From then on I have been blessed with gorgeous running courses or may be you enjoy the ambiance a bit more when in motion ;)
 
 
 

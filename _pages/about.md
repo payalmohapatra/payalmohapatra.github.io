@@ -59,7 +59,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
   Here are a few topics I have discussed here - [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning beyond audio-vision](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), Non-Stationary Transformers
 * Mentoring 
   * 2023 : 
-    * Shangke Liu,  Yuqi Ma, Yueyuan Sui, Shamika Likhite (MS students, Computer Engineering, Northwestern University)
+    * Yueyuan Sui, Shamika Likhite (MS students, Computer Engineering, Northwestern University)
     * Brooks Hu, Kiva Joseph ((Undergraduate students, Computer Engineering, Northwestern University))
     * Jonathan Li Chen, Ben Forbes, Justin Lau (Undergraduate students, Mechanical Engineering(Mentored for a course project on sensor data analysis for injury detecion), Northwestern University)
 
@@ -68,7 +68,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 # Manuscripts under preparation
 * Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers
-* Real-time Discreet Non-Verbal Communication Technology for AR glasses
+
 
 
 

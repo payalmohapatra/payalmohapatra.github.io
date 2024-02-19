@@ -15,27 +15,30 @@ I enjoy working on real world human-centric applications using methods inspired 
 Prior to joining Northwestern, I worked as an IC design engineer with [Analog Devices Inc.](https://www.analog.com/), where I developed metric driven and formal verification methods for application specific ICs aimed at industrial and consumer electronics. I have a Masters by Research in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/) during which I designed [sensing and algorithms framework for cardiac wearables](https://prezi.com/p/6t5mfk8bzu04/ms-seminar-1/).<br>
 
 You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
-[Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_2023.pdf) (last updated on October 2023)
+[Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_2024_Feb.pdf) (last updated on February 2024)
 <!-- [Link to my CV](https://www.dropbox.com/s/kpoe3u6fi0b8hqz/CV_Jan.pdf?dl=0) -->
+
 
 # Ongoing Projects
 <!-- Source -- https://stackoverflow.com/questions/30514408/have-two-columns-in-markdown -->
 
-<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+<!-- <div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;"> -->
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display">
-        <h2>Time Series AI
-        </h2>
-        Exploring fundamental time-series properties like non-stationarity, within population/sensors variation in lower frequencies etc. to learn domain agnostic representation that can help in improving the generalisation performance. 
-    </div>
-    <div style="display">
-        <h2><br>Resource-limited Speech Disfluency </h2>
-        Curated a multi-modal (audio-visual-text) dataset for speech disfluency. Exploring techniques to translate large-scale multi-modal speech-focused models in a resource-constrained paralinguistic task.
+        <h2><br>Efficient Multimodal Disfluency Detection </h2>
+        Curated a multi-modal (audio-visual-text) dataset for speech disfluency. Exploring low-footprint techniques to translate large-scale multi-modal speech-focused models in a resource-constrained paralinguistic task for unreliable data (noisy/missing modalities). 
     </div>
     <div style="display">
         <h2><br>Human-Centred <br> AI </h2>
-        Working on low-resource personalisation on real-world sensor datasets which address the practical challenges of missing data in multi-variate inputs, continual learning for categorical target beyond support-set etc. with a goal of demonstrating performance on-device.
+        Working on low-resource personalisation on real-world sensor datasets which address the practical challenges of missing data in multi-variate inputs, continual learning for categorical target beyond support-set etc. Understanding commercial foundation models' capability to conduct zero-shot evaluation and consequently studying effective few-shot techniques for heterogenous input.
     </div>
+    <!-- <div style="display">
+        <h2>Time Series AI
+        </h2>
+        Exploring fundamental time-series properties like non-stationarity, within population/sensors variation in lower frequencies etc. to learn domain agnostic representation that can help in improving the generalisation performance. 
+    </div> -->
 </div>
+
 
         
         
@@ -54,7 +57,9 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 
 # Services
-* External reviewer : ICASSP'24, Cambridge University Press early reader's reviewing (Why Does Math Work … If It's Not Real?), 
+* Reviewer : ICASSP'24, Cambridge University Press early reader's reviewing (Why Does Math Work … If It's Not Real?)
+  * External Reviewer - ASP-DAC'24, EMSOFT'23, ICCPS'23, NSys'22 
+* Organize biweekly inter-laboratory Cyber-Physical Systems study group at Northwestern University.
 * I participate in the weekly [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern University.
   Here are a few topics I have discussed here - [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning beyond audio-vision](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), Non-Stationary Transformers
 * Mentoring 

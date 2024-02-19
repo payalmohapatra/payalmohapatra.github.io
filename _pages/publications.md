@@ -7,14 +7,14 @@ author_profile: true
 <!-- **Mohapatra, Payal**, Pandey, Akash, Islam, Bashima & Zhu,Qi (2022). Speech Disfluency Detection with Contextual Representation and Data Distillation, ACM International Workshop on
 Intelligent Acoustic Systems and Applications (IASA 2022) -- *accepted* -->
 
-<ins>Mohapatra, Payal*</ins>, Lixu Wang*, and Qi Zhu. "Phase-driven Domain Generalizable Learning for Nonstationary Time Series." (2024). [[Pre-print](https://arxiv.org/abs/2402.05960)] 
+<ins>Mohapatra, Payal</ins>*, Lixu Wang*, and Qi Zhu. Phase-driven Domain Generalizable Learning for Nonstationary Time Series. (2024). [[Pre-print](https://arxiv.org/abs/2402.05960)] 
 
-<ins>Mohapatra, Payal*</ins>, Akash Pandey*, Yueyuan Sui*, and Qi Zhu. 2023. **Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks**. In Proceedings of the 31st ACM International Conference on Multimedia (MM '23). [[Paper](https://arxiv.org/pdf/2308.14359.pdf)] [[Code](https://github.com/payalmohapatra/EmotionShare_ACMMM23.git)] [[Talk](https://youtu.be/diUEnNs33y0)]
+<ins>Mohapatra, Payal</ins>*, Akash Pandey*, Yueyuan Sui*, and Qi Zhu. 2023. **Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks**. In Proceedings of the 31st ACM International Conference on Multimedia (MM '23). [[Paper](https://arxiv.org/pdf/2308.14359.pdf)] [[Code](https://github.com/payalmohapatra/EmotionShare_ACMMM23.git)] [[Talk](https://youtu.be/diUEnNs33y0)]
 
 
 <ins>Mohapatra, Payal</ins>, Bashima Islam, Md Tamzeed Islam, Ruochen Jiao, and Qi Zhu. **Efficient Stuttering Event Detection Using Siamese Networks.** In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2023.[[Paper](https://ieeexplore.ieee.org/abstract/document/10094692)] [[Code](https://github.com/payalmohapatra/Efficient-Stuttering-Event-Detection.git)] [[Talk](https://youtu.be/yBZZzOYQiFU)]
 
-<ins>Mohapatra, Payal*</ins>, Akash Pandey*, Sinan Keten, Wei Chen, and Qi Zhu. **Person Identification with Wearable Sensing Using Missing Feature Encoding and Multi-Stage Modality Fusion. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2023.[[Paper](https://ieeexplore.ieee.org/abstract/document/10097005)] [[Talk](https://youtu.be/KRNR4HT8ro4)]
+<ins>Mohapatra, Payal</ins>*, Akash Pandey*, Sinan Keten, Wei Chen, and Qi Zhu. **Person Identification with Wearable Sensing Using Missing Feature Encoding and Multi-Stage Modality Fusion. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE, 2023.[[Paper](https://ieeexplore.ieee.org/abstract/document/10097005)] [[Talk](https://youtu.be/KRNR4HT8ro4)]
 
 
 <ins>Mohapatra, Payal</ins>, Akash Pandey, Bashima Islam, and Qi Zhu. **Speech Disfluency Detection with Contextual Representation and Data Distillation.** In Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications, 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3539490.3539601)] [[Code](https://github.com/payalmohapatra/Speech-Disfluency-Detection-with-Contextual-Representation-and-Data-Distillation.git)] [[Talk](https://youtu.be/PqNO8Jy-a-s)]

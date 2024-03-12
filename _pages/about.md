@@ -44,6 +44,9 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
         
 
 # News
+* [**March, 2024**] - Submited a paper on multimodal speech disfluency detection to InterSpeech.
+* [**February, 2024**] - Submited a paper on my internship work with Meta RL on efficient event detection on smart glasses to MobileHCI.
+* [**January, 2024**] - Submited a paper on phase driven domain generalization for time series to ICML.
 * [**October, 2023**] - Corresponding with Meta Reality Labs, Audio Research group as a part-time student researcher.
 * [**July, 2023**] - Our paper on the *Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks* has been accepted for ACM Multimedia 2023 Multimedia Grand Challenges Track.
 * [**June, 2023**] - I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee).

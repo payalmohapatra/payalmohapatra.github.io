@@ -25,13 +25,21 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 <!-- <div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;"> -->
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display">
+        <h2><br>Learning from Irregular Time-series with Heterogenous Modalities</h2>
+        Designing a low-overhead technique to model the underlying process dynamics for irregular time-series (ranging from uniformly sampled time series to sparese to entirely missing variates) to learn task-agnostic representations. 
+    </div>
+    <div style="display">
+        <h2><br>Human-Centred <br> AI </h2>
+        Working on low-resource personalisation on real-world sensor datasets which address the practical challenges of missing data in multi-variate inputs, continual learning for categorical target beyond support-set etc. Understanding commercial foundation models' capability to conduct zero-shot evaluation and consequently studying effective few-shot techniques for heterogenous input.
+    </div>
+    <!-- <div style="display">
         <h2><br>Efficient Multimodal Disfluency Detection </h2>
         Curated a multi-modal (audio-visual-text) dataset for speech disfluency. Exploring low-footprint techniques to translate large-scale multi-modal speech-focused models in a resource-constrained paralinguistic task for unreliable data (noisy/missing modalities). 
     </div>
     <div style="display">
         <h2><br>Human-Centred <br> AI </h2>
         Working on low-resource personalisation on real-world sensor datasets which address the practical challenges of missing data in multi-variate inputs, continual learning for categorical target beyond support-set etc. Understanding commercial foundation models' capability to conduct zero-shot evaluation and consequently studying effective few-shot techniques for heterogenous input.
-    </div>
+    </div> -->
     <!-- <div style="display">
         <h2>Time Series AI
         </h2>
@@ -40,11 +48,13 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 </div>
 
 
-        
+   
         
 
 # News
-* [**March, 2024**] - Submited a paper on multimodal speech disfluency detection to InterSpeech.
+* [**June, 2024**] - Started my summer internship with Meta Reality Labs as Research Scientist. 
+* [**June, 2024**] - Our paper on *Missingness-resilient Video-enhanced Multimodal Disfluency Detection* is accepted and chosen for oral presentation at InterSpeech'24.
+* [**March 2024**] - Submited our paper *Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers* to PNAS Nexus journal.
 * [**February, 2024**] - Submited a paper on my internship work with Meta RL on efficient event detection on smart glasses to MobileHCI.
 * [**January, 2024**] - Submited a paper on phase driven domain generalization for time series to ICML.
 * [**October, 2023**] - Corresponding with Meta Reality Labs, Audio Research group as a part-time student researcher.
@@ -60,12 +70,14 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
 
 # Services
-* Reviewer : ICASSP'24, Cambridge University Press early reader's reviewing (Why Does Math Work … If It's Not Real?)
+* Reviewer : IMWUT'24, IROS'24, ICASSP'24
   * External Reviewer - ASP-DAC'24, EMSOFT'23, ICCPS'23, NSys'22 
+  * Books - Cambridge University Press early reader's reviewing (Why Does Math Work … If It's Not Real?)
 * Organize biweekly inter-laboratory Cyber-Physical Systems study group at Northwestern University.
 * I participate in the weekly [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern University.
   Here are a few topics I have discussed here - [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning beyond audio-vision](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), Non-Stationary Transformers
 * Mentoring 
+  * 2024 : Xiaoyuan Zhang (MS student, Computer Engineering, Northwestern University)
   * 2023 : 
     * Yueyuan Sui, Shamika Likhite (MS students, Computer Engineering, Northwestern University)
     * Brooks Hu, Kiva Joseph ((Undergraduate students, Computer Engineering, Northwestern University))
@@ -73,11 +85,6 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 
   * 2022 : Devashri Naik, Jinjin Cai (MS, Computer Engineering, Northwestern University)
   
-
-# Manuscripts under preparation
-* Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers
-
-
 
 
 

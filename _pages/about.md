@@ -52,6 +52,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
         
 
 # News
+* [**August, 2024**] - Excited to be selected as the EECS Rising Star 2024! Invited to the 2-day workshop hosted at MIT in October.
 * [**June, 2024**] - Started my summer internship with Meta Reality Labs as Research Scientist. 
 * [**June, 2024**] - Our paper on *Missingness-resilient Video-enhanced Multimodal Disfluency Detection* is accepted and chosen for oral presentation at InterSpeech'24.
 * [**March 2024**] - Submited our paper *Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers* to PNAS Nexus journal.

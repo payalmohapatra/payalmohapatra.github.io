@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD candidate in Computer Engineering and a part of [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) at Northwestern University, advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). <br>
+I am a fourth year PhD candidate in Computer Engineering and a part of [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) at Northwestern University, advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). <br>
 
 I enjoy working on real world human-centric applications using methods inspired from computer science and health research. I investigate machine-learning methods for real-world applications with a focus on audio, healthcare and generally time series sensor data. These applications are ubiquitous and pose unique challenges in data analyses and learning. My focus is to develop robust learning algorithms for data (quality, quantity, and labels) and resource constrained applications. I am currently interested in exploring design trade-offs based on personalization and generalization of an algorithm for a system. Another aspect I wish to drive through my research is inclusivity in technology. I am interested in solving problems faced by the minority users ([atypical speakers and voice assisted technology](https://ieeexplore.ieee.org/abstract/document/10094692), [darker skin-tone subjects and optical heart rate monitors](https://ieeexplore.ieee.org/abstract/document/7969842)). I want to emphasize on model explainability and resource efficiency in addition to model accuracy as a key performance index in my research. <br>
 
@@ -52,10 +52,10 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
         
 
 # News
+* [**September 2024**] - Our paper *Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers* is accepted in PNAS Nexus journal.
 * [**August, 2024**] - Excited to be selected as the EECS Rising Star 2024! Invited to the 2-day workshop hosted at MIT in October.
 * [**June, 2024**] - Started my summer internship with Meta Reality Labs as Research Scientist. 
 * [**June, 2024**] - Our paper on *Missingness-resilient Video-enhanced Multimodal Disfluency Detection* is accepted and chosen for oral presentation at InterSpeech'24.
-* [**March 2024**] - Submited our paper *Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers* to PNAS Nexus journal.
 * [**February, 2024**] - Submited a paper on my internship work with Meta RL on efficient event detection on smart glasses to MobileHCI.
 * [**January, 2024**] - Submited a paper on phase driven domain generalization for time series to ICML.
 * [**October, 2023**] - Corresponding with Meta Reality Labs, Audio Research group as a part-time student researcher.

@@ -56,7 +56,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu. <br>
 * [**August, 2024**] - Excited to be selected as the EECS Rising Star 2024! Invited to the 2-day workshop hosted at MIT in October.
 * [**June, 2024**] - Started my summer internship with Meta Reality Labs as Research Scientist. 
 * [**June, 2024**] - Our paper on *Missingness-resilient Video-enhanced Multimodal Disfluency Detection* is accepted and chosen for oral presentation at InterSpeech'24.
-* [**February, 2024**] - Submited a paper on my internship work with Meta RL on efficient event detection on smart glasses to MobileHCI.
+* [**February, 2024**] - My internship work with Meta Reality Labs on efficient event detection on smart glasses -- Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks, is now [live](https://arxiv.org/abs/2408.11346)!
 * [**January, 2024**] - Submited a paper on phase driven domain generalization for time series to ICML.
 * [**October, 2023**] - Corresponding with Meta Reality Labs, Audio Research group as a part-time student researcher.
 * [**July, 2023**] - Our paper on the *Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks* has been accepted for ACM Multimedia 2023 Multimedia Grand Challenges Track.

@@ -27,11 +27,14 @@ Intelligent Acoustic Systems and Applications (IASA 2022) -- *accepted* -->
 Non-Archival Presentations
 ------
 
-1. "Detecting Speech Disfluencies in a Data Constrained Setting" [[poster]](https://www.dropbox.com/s/7cp6aqu3ts89bu5/CRA2022_poster_v2.pdf?dl=0)
-    - Computing Research Association Widening Participation, Grad Cohort Workshop for Women, New Orleans, USA, April 2022
+1. "Empowering Real-World Sensing : Algorithms for IMperfect Time-Series" 
+    - EECS Rising Stars Workshop 2024, Massachusetts Institute of Technology, October 2024 [[video]](https://youtu.be/OGLrQtyFE0E) --> [[slides]](https://github.com/payalmohapatra/payalmohapatra.github.io/blob/master/files/Research_BirdsEye_final.pdf),  [[poster]](https://github.com/payalmohapatra/payalmohapatra.github.io/blob/master/files/Research_Poster_Portrait_one_slide_final.pdf)
+
+2. "Detecting Speech Disfluencies in a Data Constrained Setting" 
+    - Computing Research Association Widening Participation, Grad Cohort Workshop for Women, New Orleans, USA, April 2022 [[poster]](https://www.dropbox.com/s/7cp6aqu3ts89bu5/CRA2022_poster_v2.pdf?dl=0)
 
 2. "PAST : Privacy Aware Speech Therapy" [[poster]](https://www.dropbox.com/s/ozbpyp5pgv2he5a/PAST_Poster_Payal.pdf?dl=0)
-    - Design Automation Conference Young Fellowship, Virtual, Dec 2021 [[project video]](https://www.youtube.com/watch?v=wM3RPnj7sVY)
+    - Design Automation Conference Young Fellowship, Virtual, December 2021 [[project video]](https://www.youtube.com/watch?v=wM3RPnj7sVY)
 
 
 3. "Short-term HRV using acceleration PPG under severe ambient settings using in-house developed wearable" 

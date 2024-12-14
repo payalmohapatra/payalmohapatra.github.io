@@ -34,25 +34,47 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu.
 </div>
 
 ## News
+<!-- ## News
 <div style="width: 100%; height: 400px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
     <h3>Latest Updates</h3>
     <ul>
-        <li><strong>October 2024</strong> - Our paper *Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers* is published in PNAS Nexus. Featured by tech news outlets like [TechXplore](https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR#) and [Popular Science](https://www.popsci.com/technology/worker-fatigue-sensors/).</li>
+        <li><strong>October 2024</strong> - Our paper "Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers" is published in PNAS Nexus. Featured by tech news outlets like [TechXplore](https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR#) and [Popular Science](https://www.popsci.com/technology/worker-fatigue-sensors/).</li>
         <li><strong>August 2024</strong> - Selected as the EECS Rising Star 2024, invited to the 2-day workshop at MIT in October. Read more in this [article](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/phd-student-payal-mohapatra-selected-for-eecs-rising-stars-workshop.html) by Northwestern.</li>
         <li><strong>June 2024</strong> - Started a summer internship with Meta Reality Labs as a Research Scientist.</li>
         <li><strong>June 2024</strong> - Our paper on *Missingness-resilient Video-enhanced Multimodal Disfluency Detection* was accepted for oral presentation at Interspeech 2024.</li>
         <li><strong>February 2024</strong> - My paper *Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks* is now [live](https://arxiv.org/abs/2408.11346)!</li>
-        <li><strong>January 2024</strong> - Submitted paper on phase-driven domain generalization for time series to ICML.</li>
+        <li><strong>January 2024</strong> - Submitted a paper on phase-driven domain generalization for time series to ICML.</li>
         <li><strong>October 2023</strong> - Collaborating with Meta Reality Labs Audio Research Group as a part-time student researcher.</li>
         <li><strong>July 2023</strong> - Paper on *Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks* accepted for ACM Multimedia 2023.</li>
         <li><strong>June 2023</strong> - Internship with Meta Reality Labs, Redmond, WA. Reach out if you're here!</li>
         <li><strong>May 2023</strong> - Participating in the ACM Multimedia 2023 Computational Paralinguistics Challenge (ComParE).</li>
         <li><strong>February 2023</strong> - Our paper on *EFFICIENT STUTTERING EVENT DETECTION USING SIAMESE NETWORKS* accepted in ICASSP 2023.</li>
         <li><strong>February 2023</strong> - Secured third place in the *e-Prevention Challenge* in ICASSP 2023. Invited to present on *PERSON IDENTIFICATION WITH WEARABLE SENSING*.</li>
-        <li><strong>December 2022</strong> - Demonstrated prototype of fatigue prediction in workers at Boeing, Everett, Washington factory.</li>
-        <li><strong>August 2022</strong> - Demonstrated initial prototype at John Deere factory in Knoxville, Tennessee.</li>
+        <li><strong>December 2022</strong> - Demonstrated the prototype of fatigue prediction in workers at Boeing, Everett, Washington factory.</li>
+        <li><strong>August 2022</strong> - Demonstrated the initial prototype at John Deere factory in Knoxville, Tennessee.</li>
+        <li><strong>July 2022</strong> - Presented *Speech Disfluency Detection with Contextual Representation and Data Distillation* at Intelligent Acoustic Systems and Applications co-located with MobiSys'22.</li>
+        <li><strong>April 2022</strong> - Presented poster on *Speech Disfluency Detection under data-constraints* at CRA-WP grad cohort at New Orleans, Louisiana.</li>
     </ul>
 </div>
+ -->
+
+* [**December 2024**] - Successfully passed my PhD Prospectus examination -- 2/3 of the journey complete!
+* [**October 2024**] - Our paper *Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers* is accepted in PNAS Nexus journal. Featured by tech news outlets like [TechXplore](https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR#) and [Popular Science](https://www.popsci.com/technology/worker-fatigue-sensors/).
+* [**August, 2024**] - Excited to be selected as the EECS Rising Star 2024! Invited to the 2-day workshop hosted at MIT in October. Read more in this [article](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/phd-student-payal-mohapatra-selected-for-eecs-rising-stars-workshop.html) by Northwestern.
+* [**June, 2024**] - Started my summer internship with Meta Reality Labs as Research Scientist. 
+* [**June, 2024**] - Our paper on *Missingness-resilient Video-enhanced Multimodal Disfluency Detection* is accepted and chosen for oral presentation at InterSpeech'24.
+* [**February, 2024**] - My internship work with Meta Reality Labs on efficient event detection on smart glasses -- Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks, is now [live](https://arxiv.org/abs/2408.11346)!
+* [**January, 2024**] - Submited a paper on phase driven domain generalization for time series to ICML.
+* [**October, 2023**] - Corresponding with Meta Reality Labs, Audio Research group as a part-time student researcher.
+* [**July, 2023**] - Our paper on the *Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks* has been accepted for ACM Multimedia 2023 Multimedia Grand Challenges Track.
+* [**June, 2023**] - I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee).
+* [**May, 2023**] - We are participating in the ACM Multimedia 2023 Computational Paralinguistics Challenge (ComParE).
+* [**February, 2023**] - Our paper on *EFFICIENT STUTTERING EVENT DETECTION USING SIAMESE NETWORKS* is accepted in ICASSP'23.
+* [**February, 2023**] - Secured third place in  *e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals Challenge* in ICASSP'23. Invited to present a paper on methodology - *PERSON IDENTIFICATION WITH WEARABLE SENSING USING MISSING FEATURE ENCODING AND MULTI-STAGE MODALITY FUSION*.
+* [**December, 2022**] - Demonstrated final working prototype of fatigue prediction in workers with near-real-time visualisation at the Boeing, Everett, Washington, factory floor.
+* [**August, 2022**] - Demonstrated initial working prototype of fatigue prediction in workers with near-real-time visualisation at the John Deere, Knoxville, Tennesse, factory floor.
+* [**July, 2022**] - Presented *Speech Disfluency Detection with Contextual Representation and Data Distillation* at Intelligent Acoustic Systems and Applications co-located with MobiSys'22.
+* [**April, 2022**] - Presented poster on *Speech Disfluency Detection under data-constraints* at CRA-WP grad cohort at New Orleans, Louisiana.
 
 ## Services
 * Reviewer: ICASSP'25, ICLR'25, NeurIPS'24 (TSALM workshop), IMWUT'24, IROS'24, ICASSP'24
@@ -61,7 +83,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu.
 * Organize biweekly inter-laboratory Cyber-Physical Systems study group at Northwestern.
 * Active participant in the [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern, covering topics like [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), and Non-Stationary Transformers.
 * Mentoring:
-  * 2024: Xiaoyuan Zhang (MS student, Computer Engineering, Northwestern)
+  * 2024: Xiaoyuan Zhang, Talia-Ben Naim (MS students, Computer Engineering, Northwestern), Brooks Hu (Undergraduate, Computer Engineering, Northwestern), Mark Zhang (MS students, Mechanical Engineering, Northwestern)
   * 2023:
     * Yueyuan Sui, Shamika Likhite (MS students, Computer Engineering, Northwestern)
     * Brooks Hu, Kiva Joseph (Undergraduates, Computer Engineering, Northwestern)

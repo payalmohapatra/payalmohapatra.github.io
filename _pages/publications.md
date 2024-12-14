@@ -7,6 +7,18 @@ author_profile: true
 <!-- **Mohapatra, Payal**, Pandey, Akash, Islam, Bashima & Zhu,Qi (2022). Speech Disfluency Detection with Contextual Representation and Data Distillation, ACM International Workshop on
 Intelligent Acoustic Systems and Applications (IASA 2022) -- *accepted* -->
 
+
+<ins>Mohapatra, Payal</ins>\*, Vasudev Aravind\*, Marisa Bisram, Young-Joong Lee, Hyoyoung Jeong, Katherine Jinkins, Richard Gardner et al. "Wearable network for multilevel physical fatigue prediction in manufacturing workers." PNAS nexus 3, no. 10 (2024): pgae421.[[Paper](https://doi.org/10.1093/pnasnexus/pgae421)][[Code]( https://github.com/payalmohapatra/WorkerFatigue.git)] [[Data](https://zenodo.org/records/12788571)] [[Video Demo](https://youtu.be/WkZgXNLCUdo)]
+
+
+<ins>Mohapatra, Payal</ins>\*, Ali Aroudi, Anurag Kumar, and Morteza Khaleghimeybodi. "Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks." arXiv preprint arXiv:2408.11346 (2024). [[White Paper](https://arxiv.org/abs/2408.11346)]
+
+
+
+<ins>Mohapatra, Payal</ins>\*, Shamika Likhite\*, Subrata Biswas, Bashima Islam, and Qi Zhu. "Missingness-Resilient Video-Enhanced Multimodal Disfluency Detection." In *Proceedings of Interspeech 2024*, 5093–5097. [[Paper](https://doi.org/10.21437/Interspeech.2024-1458)] [[Code](https://github.com/payalmohapatra/Multimodal-Speech-Disfluency)] [[Data](https://figshare.com/articles/dataset/Multimodal_dataset_zip/27216024)]
+
+
+
 <ins>Mohapatra, Payal</ins>\*, Lixu Wang\*, and Qi Zhu. **Phase-driven Domain Generalizable Learning for Nonstationary Time Series**. (2024). [[Pre-print](https://arxiv.org/abs/2402.05960)] 
 
 <ins>Mohapatra, Payal</ins>\*, Akash Pandey\*, Yueyuan Sui\*, and Qi Zhu. 2023. **Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks**. In Proceedings of the 31st ACM International Conference on Multimedia (MM '23). [[Paper](https://arxiv.org/pdf/2308.14359.pdf)] [[Code](https://github.com/payalmohapatra/EmotionShare_ACMMM23.git)] [[Talk](https://youtu.be/diUEnNs33y0)]

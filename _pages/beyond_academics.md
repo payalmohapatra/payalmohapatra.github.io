@@ -5,6 +5,8 @@ permalink: /beyond_academics/
 author_profile: true
 ---
 
+> My idea of good life is one of education, adventure and creativity (and great food!).  
+
 # Books
 I love living vicariously through books. Here is my [digital bookshelf](https://www.notion.so/payal-mohapatra/b36987dff60140929e6732607ffcb828?v=6b485368f59e40598e19ee3c4c07d3b9&pvs=4) in the recent years. (Although, I romanticise reading in a cozy coffee shop with a huge cuppa joe, in reality I am mostly consuming pages/listening to audiobooks on my commute or while waiting for my rice to get done.)
 
@@ -26,7 +28,6 @@ I love running outdoors and over the years I have increased my race distances.
 * Chicago Half Marathon, Chicago, USA, 2023 - 21km
 
 I was introduced to running by my (amazing) [partner](https://pandeyakash23.github.io/akashapandey.github.io//) and the beautiful backdrop of IIT Madras was a positive catalyst. From then on I have been blessed with gorgeous running courses or may be you enjoy the ambiance a bit more when in motion ;)
-
 
 
 

@@ -15,7 +15,7 @@ My research is focused on human-centric applications that bridge computer scienc
 Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https://www.analog.com/), developing formal verification methods for application-specific ICs. I hold a Masters by Research in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/), where I designed [a sensing and algorithms framework for cardiac wearables](https://prezi.com/p/6t5mfk8bzu04/ms-seminar-1/).
 
 You can reach me at payalmohapatra2026 at u dot northwestern dot edu.  
-[Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_2024_Oct.pdf) (last updated October 2024)
+[Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_2024_Dec.pdf) (last updated December 2024)
 
 ## Ongoing Projects
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">

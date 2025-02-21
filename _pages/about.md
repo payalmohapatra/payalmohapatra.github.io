@@ -15,9 +15,9 @@ My research is focused on human-centric applications that bridge computer scienc
 Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https://www.analog.com/), developing formal verification methods for application-specific ICs. I hold a Masters by Research in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/), where I designed [a sensing and algorithms framework for cardiac wearables](https://prezi.com/p/6t5mfk8bzu04/ms-seminar-1/).
 
 You can reach me at payalmohapatra2026 at u dot northwestern dot edu.  
-[Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_2024_Dec.pdf) (last updated December 2024)
+[Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_Industry_Feb_2025.pdf) (last updated February 2025)
 
-## Ongoing Projects
+<!-- ## Ongoing Projects
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
         <h3>Learning from Irregular Time-Series</h3>
@@ -31,16 +31,32 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu.
         <h3>Practitioner's Guide to Manufacturing Workplace Safety</h3>
         <p>Collaborating with Boeing and MxD to create a browsable repository of COTS sensors and wearable-data analytics to enhance workplace safety by quantifying risk factors.</p>
     </div>
+</div> -->
+
+
+## Ongoing Projects
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
+        <h3>Learning from Irregular and Heterogenous Modalities</h3>
+        <p>Investigating methods to model the underlying process dynamics for irregular time-series, ranging from uniformly sampled to sparse or missing variates, to learn task-agnostic representations while modeling the inter-modality interactions.</p>
+    </div>
+    <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
+        <h3>Practitioner's Guide to Manufacturing Workplace Safety</h3>
+        <p>Collaborating with Boeing and MxD to create a browsable repository of COTS sensors and wearable-data analytics to enhance workplace safety by quantifying risk factors. Assessing the validity of off-the-shelf pose analytics for extracting ergonomic risk metrics (RULA/REBA scores).</p>
+    </div>
 </div>
 
 ## News
+* [**February 2025**] - Submited our paper on surface-EMG based silent-speech recognition using LLMs to ACL.
+* [**Januaray 2025**] - Submited our paper on head-orientation based acoustic zones' localization to IMWUT.
+* [**January, 2025**] - Submited our paper on phase driven domain generalization for time series to TMLR.
 * [**December 2024**] - Successfully passed my PhD Prospectus examination -- 2/3 of the journey complete!
 * [**October 2024**] - Our paper *Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers* is accepted in PNAS Nexus journal. Featured by tech news outlets like [TechXplore](https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR#) and [Popular Science](https://www.popsci.com/technology/worker-fatigue-sensors/).
 * [**August, 2024**] - Excited to be selected as the EECS Rising Star 2024! Invited to the 2-day workshop hosted at MIT in October. Read more in this [article](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/phd-student-payal-mohapatra-selected-for-eecs-rising-stars-workshop.html) by Northwestern.
 * [**June, 2024**] - Started my summer internship with Meta Reality Labs as Research Scientist. 
 * [**June, 2024**] - Our paper on *Missingness-resilient Video-enhanced Multimodal Disfluency Detection* is accepted and chosen for oral presentation at InterSpeech'24.
 * [**February, 2024**] - My internship work with Meta Reality Labs on efficient event detection on smart glasses -- Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks, is now [live](https://arxiv.org/abs/2408.11346)!
-* [**January, 2024**] - Submited a paper on phase driven domain generalization for time series to ICML.
+<!-- * [**January, 2024**] - Submited a paper on phase driven domain generalization for time series to ICML. -->
 * [**October, 2023**] - Corresponding with Meta Reality Labs, Audio Research group as a part-time student researcher.
 * [**July, 2023**] - Our paper on the *Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks* has been accepted for ACM Multimedia 2023 Multimedia Grand Challenges Track.
 * [**June, 2023**] - I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee).

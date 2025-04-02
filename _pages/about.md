@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate in Computer Engineering at Northwestern University, part of the [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) and advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). 
+<audio controls>
+  <source src="https://github.com/payalmohapatra/payalmohapatra.github.io/blob/master/files/name_pronounce.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+Hello! I am Payal (<span onclick="document.getElementById('nameAudio').play();" style="cursor: pointer;" title="Hear pronunciation">📢</span>
+<audio id="nameAudio" src="files/name_pronounce.mp3"></audio>). I am a fourth-year PhD candidate in Computer Engineering at Northwestern University, part of the [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) and advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). 
 
 My research is focused on human-centric applications that bridge computer science and health. Specifically, I develop machine learning techniques for real-world challenges involving audio, healthcare, and time-series sensor data. These applications are pervasive but often come with challenges in data analysis and model development. I aim to design robust algorithms that handle issues like data quality, sparsity, and resource constraints. A significant part of my work explores the trade-offs between personalization and generalization in algorithm design, with an emphasis on making technology more inclusive for underrepresented users (e.g., atypical speakers in voice technology, and skin-tone diversity in optical heart rate monitoring). In addition to model performance, I prioritize explainability and resource efficiency. 
 
@@ -16,6 +23,7 @@ Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https:
 
 You can reach me at payalmohapatra2026 at u dot northwestern dot edu.  
 [Link to my CV](http://payalmohapatra.github.io/files/CV_Payal_Industry_Feb_2025.pdf) (last updated February 2025)
+
 
 <!-- ## Ongoing Projects
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -30,6 +38,18 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu.
     <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
         <h3>Practitioner's Guide to Manufacturing Workplace Safety</h3>
         <p>Collaborating with Boeing and MxD to create a browsable repository of COTS sensors and wearable-data analytics to enhance workplace safety by quantifying risk factors.</p>
+    </div>
+</div> -->
+
+<!-- ## 📢 Media Coverage
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
+        <h3>Research</h3>
+        <p>Investigating methods to model the underlying process dynamics for irregular time-series, ranging from uniformly sampled to sparse or missing variates, to learn task-agnostic representations while modeling the inter-modality interactions.</p>
+    </div>
+    <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
+        <h3>Worker Safety</h3>
+        <p>Collaborating with Boeing and MxD to create a browsable repository of COTS sensors and wearable-data analytics to enhance workplace safety by quantifying risk factors. Assessing the validity of off-the-shelf pose analytics for extracting ergonomic risk metrics (RULA/REBA scores).</p>
     </div>
 </div> -->
 

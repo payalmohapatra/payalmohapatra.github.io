@@ -33,7 +33,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu.
 ## News
 <div class="scrollable-timeline">
   <ul>
-    <li><strong>June 2025</strong> - I will be interning with Mitsubishi Electric Labs (MERL), Boston, MA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕).</li>
+    <li><strong>June 2025</strong> - I will be interning with Mitsubishi Electric Labs (MERL), Boston, MA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕). </li>
     <li><strong>February 2025</strong> - Submitted our paper on surface-EMG based silent-speech recognition using LLMs to ACL.</li>
     <li><strong>January 2025</strong> - Submitted our paper on head-orientation based acoustic zones' localization to IMWUT.</li>
     <li><strong>January 2025</strong> - Submitted our paper on phase-driven domain generalization for time series to TMLR.</li>

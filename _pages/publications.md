@@ -7,50 +7,30 @@ author_profile: true
 
 # Publications
 
-<ins>Wang, Lixu</ins>, Bingqi Shang, Yi Li, <ins>Payal Mohapatra</ins>, Wei Dong, Xiao Wang, and Qi Zhu.  
-**"Split Adaptation for Pre-trained Vision Transformers."** *CVPR 2025*.  
-[[Paper](https://arxiv.org/abs/2503.00441)] 
+Wang, Lixu, Bingqi Shang, Yi Li, <ins>Payal Mohapatra</ins>, Wei Dong, Xiao Wang, and Qi Zhu. **"Split Adaptation for Pre-trained Vision Transformers."** *CVPR 2025*. [[Paper](https://arxiv.org/abs/2503.00441)] 
 
 
-<ins>Mohapatra, Payal</ins>\*, Vasudev Aravind\*, Marisa Bisram, Young-Joong Lee, Hyoyoung Jeong, Katherine Jinkins, Richard Gardner et al.  
-**"Wearable Network for Multilevel Physical Fatigue Prediction in Manufacturing Workers."** *PNAS Nexus* 3, no. 10 (2024): pgae421.  
-[[Paper](https://doi.org/10.1093/pnasnexus/pgae421)] | [[Code](https://github.com/payalmohapatra/WorkerFatigue.git)] | [[Data](https://zenodo.org/records/12788571)] | [[Video Demo](https://youtu.be/WkZgXNLCUdo)]
+<ins>Mohapatra, Payal</ins>\*, Vasudev Aravind\*, Marisa Bisram, Young-Joong Lee, Hyoyoung Jeong, Katherine Jinkins, Richard Gardner et al. **"Wearable Network for Multilevel Physical Fatigue Prediction in Manufacturing Workers."** *PNAS Nexus* 3, no. 10 (2024): pgae421. [[Paper](https://doi.org/10.1093/pnasnexus/pgae421)] | [[Code](https://github.com/payalmohapatra/WorkerFatigue.git)] | [[Data](https://zenodo.org/records/12788571)] | [[Video Demo](https://youtu.be/WkZgXNLCUdo)]
 
-<ins>Mohapatra, Payal</ins>\*, Ali Aroudi, Anurag Kumar, and Morteza Khaleghimeybodi.  
-**"Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks."** *arXiv preprint arXiv:2408.11346* (2024).  
-[[White Paper](https://arxiv.org/abs/2408.11346)]
+<ins>Mohapatra, Payal</ins>\*, Ali Aroudi, Anurag Kumar, and Morteza Khaleghimeybodi. **"Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks."** *arXiv preprint arXiv:2408.11346* (2024). [[White Paper](https://arxiv.org/abs/2408.11346)]
 
-<ins>Mohapatra, Payal</ins>\*, Shamika Likhite\*, Subrata Biswas, Bashima Islam, and Qi Zhu.  
-**"Missingness-Resilient Video-Enhanced Multimodal Disfluency Detection."** *Interspeech 2024*, 5093–5097.  
-[[Paper](https://doi.org/10.21437/Interspeech.2024-1458)] | [[Code](https://github.com/payalmohapatra/Multimodal-Speech-Disfluency)] | [[Data](https://figshare.com/articles/dataset/Multimodal_dataset_zip/27216024)]
+<ins>Mohapatra, Payal</ins>\*, Shamika Likhite\*, Subrata Biswas, Bashima Islam, and Qi Zhu. **"Missingness-Resilient Video-Enhanced Multimodal Disfluency Detection."** *Interspeech 2024*, 5093–5097.  [[Paper](https://doi.org/10.21437/Interspeech.2024-1458)] | [[Code](https://github.com/payalmohapatra/Multimodal-Speech-Disfluency)] | [[Data](https://figshare.com/articles/dataset/Multimodal_dataset_zip/27216024)]
 
-<ins>Mohapatra, Payal</ins>\*, Lixu Wang\*, and Qi Zhu.  
-**"Phase-driven Domain Generalizable Learning for Nonstationary Time Series."** (2024).  
-[[Pre-print](https://arxiv.org/abs/2402.05960)]
+<ins>Mohapatra, Payal</ins>, Lixu Wang, and Qi Zhu. **"Phase-driven Domain Generalizable Learning for Nonstationary Time Series."** (2024). [[Pre-print](https://arxiv.org/abs/2402.05960)]
 
 <ins>Mohapatra, Payal</ins>\*, Akash Pandey\*, Yueyuan Sui\*, and Qi Zhu.  
-**"Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks."** *Proceedings of the 31st ACM International Conference on Multimedia (MM '23)*.  
-[[Paper](https://arxiv.org/pdf/2308.14359.pdf)] | [[Code](https://github.com/payalmohapatra/EmotionShare_ACMMM23.git)] | [[Talk](https://youtu.be/diUEnNs33y0)]
+**"Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks."** *Proceedings of the 31st ACM International Conference on Multimedia (MM '23)*. [[Paper](https://arxiv.org/pdf/2308.14359.pdf)] | [[Code](https://github.com/payalmohapatra/EmotionShare_ACMMM23.git)] | [[Talk](https://youtu.be/diUEnNs33y0)]
 
-<ins>Mohapatra, Payal</ins>, Bashima Islam, Md Tamzeed Islam, Ruochen Jiao, and Qi Zhu.  
-**"Efficient Stuttering Event Detection Using Siamese Networks."** *ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, IEEE, 2023.  
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10094692)] | [[Code](https://github.com/payalmohapatra/Efficient-Stuttering-Event-Detection.git)] | [[Talk](https://youtu.be/yBZZzOYQiFU)]
+<ins>Mohapatra, Payal</ins>, Bashima Islam, Md Tamzeed Islam, Ruochen Jiao, and Qi Zhu. **"Efficient Stuttering Event Detection Using Siamese Networks."** *ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10094692)] | [[Code](https://github.com/payalmohapatra/Efficient-Stuttering-Event-Detection.git)] | [[Talk](https://youtu.be/yBZZzOYQiFU)]
 
-<ins>Mohapatra, Payal</ins>\*, Akash Pandey\*, Sinan Keten, Wei Chen, and Qi Zhu.  
-**"Person Identification with Wearable Sensing Using Missing Feature Encoding and Multi-Stage Modality Fusion."** *ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, IEEE, 2023.  
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10097005)] | [[Talk](https://youtu.be/KRNR4HT8ro4)]
+<ins>Mohapatra, Payal</ins>\*, Akash Pandey\*, Sinan Keten, Wei Chen, and Qi Zhu. **"Person Identification with Wearable Sensing Using Missing Feature Encoding and Multi-Stage Modality Fusion."** *ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, IEEE, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10097005)] | [[Talk](https://youtu.be/KRNR4HT8ro4)]
 
-<ins>Mohapatra, Payal</ins>, Akash Pandey, Bashima Islam, and Qi Zhu.  
-**"Speech Disfluency Detection with Contextual Representation and Data Distillation."** *Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications* (2022).  
-[[Paper](https://dl.acm.org/doi/abs/10.1145/3539490.3539601)] | [[Code](https://github.com/payalmohapatra/Speech-Disfluency-Detection-with-Contextual-Representation-and-Data-Distillation.git)] | [[Talk](https://youtu.be/PqNO8Jy-a-s)]
+<ins>Mohapatra, Payal</ins>, Akash Pandey, Bashima Islam, and Qi Zhu. **"Speech Disfluency Detection with Contextual Representation and Data Distillation."** *Proceedings of the 1st ACM International Workshop on Intelligent Acoustic Systems and Applications* (2022). [[Paper](https://dl.acm.org/doi/abs/10.1145/3539490.3539601)] | [[Code](https://github.com/payalmohapatra/Speech-Disfluency-Detection-with-Contextual-Representation-and-Data-Distillation.git)] | [[Talk](https://youtu.be/PqNO8Jy-a-s)]
 
-<ins>Mohapatra, Payal</ins>, Preejith Sreeletha Premkumar, and Mohanasankar Sivaprakasam.  
-**"A Yellow–Orange Wavelength-Based Short-Term Heart Rate Variability Measurement Scheme for Wrist-Based Wearables."** *IEEE Transactions on Instrumentation and Measurement*, 2018.  
-[[Paper](https://ieeexplore.ieee.org/abstract/document/8253824)]
+<ins>Mohapatra, Payal</ins>, Preejith Sreeletha Premkumar, and Mohanasankar Sivaprakasam. **"A Yellow–Orange Wavelength-Based Short-Term Heart Rate Variability Measurement Scheme for Wrist-Based Wearables."** *IEEE Transactions on Instrumentation and Measurement*, 2018. [[Paper](https://ieeexplore.ieee.org/abstract/document/8253824)]
 
 <ins>Mohapatra, Payal</ins>, S. P. Preejith, and Mohanasankar Sivaprakasam.  
-**"A Novel Sensor for Wrist Based Optical Heart Rate Monitor."** *IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, 2017.  
-[[Paper](https://ieeexplore.ieee.org/abstract/document/7969842)]
+**"A Novel Sensor for Wrist Based Optical Heart Rate Monitor."** *IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, 2017. [[Paper](https://ieeexplore.ieee.org/abstract/document/7969842)]
 
 
 ## Non-Archival Presentations

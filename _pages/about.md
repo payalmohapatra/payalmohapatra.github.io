@@ -60,13 +60,13 @@ Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https:
   <ul>
     <li><strong>June 2025</strong> - I will be interning with Mitsubishi Electric Labs (MERL), Boston, MA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕). </li>
     <strong>April 2025</strong> — Selected as one of six speakers to present a <em>Lightning Talk</em> at 
-      <a href="https://codex.northwestern.edu/program/lightning-talks/" target="_blank">CoDEX</a>, Northwestern University.
+      <a href="https://codex.northwestern.edu/program/lightning-talks/" target="_blank">CoDEX symposium</a>, Northwestern University.
     </li>
     <li><strong>February 2025</strong> - Submitted our paper on surface-EMG based silent-speech recognition using LLMs to ACL.</li>
     <li><strong>January 2025</strong> - Submitted our paper on head-orientation based acoustic zones' localization to IMWUT.</li>
     <li><strong>January 2025</strong> - Submitted our paper on phase-driven domain generalization for time series to TMLR.</li>
-    <li><strong>🏃‍♀️December 2024</strong> - Successfully passed my PhD Prospectus examination — 2/3 of the journey complete!</li>
-    <li><strong>📰 October 2024</strong> - Our paper <em>Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers</em> is accepted in PNAS Nexus journal. Featured by tech news outlets like 
+    <li><strong>December 2024🏃‍♀️</strong> - Successfully passed my PhD Prospectus examination — 2/3 of the journey complete!</li>
+    <li><strong>October 2024📰</strong> - Our paper <em>Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers</em> is accepted in PNAS Nexus journal. Featured by tech news outlets like 
       <a href="https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR#">MSN</a>, 
       <a href="https://techxplore.com/news/2024-10-wearable-sensors-track-fatigue-factory.html#google_vignette">TechXplore</a>, 
       <a href="https://www.popsci.com/technology/worker-fatigue-sensors/">PopSci</a>, 
@@ -74,7 +74,7 @@ Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https:
       <a href="https://tech.yahoo.com/wearables/articles/wearable-sensors-monitor-factory-worker-185312026.html">Yahoo Tech</a>, 
       <a href="https://www.mccormick.northwestern.edu/news/articles/2024/10/improving-the-occupational-health-of-manufacturing-workers/?utm_source=linkedin&utm_medium=social-post&utm_campaign=mcc-news-social-promo&utm_content=___">Northwestern Engineering</a>.
     </li>
-    <li><strong>🏆 August 2024</strong> - Excited to be selected as the EECS Rising Star 2024! Invited to the 2-day workshop hosted at MIT in October. Read more in this 
+    <li><strong>August 2024🏆</strong> - Excited to be selected as the EECS Rising Star 2024! Invited to the 2-day workshop hosted at MIT in October. Read more in this 
       <a href="https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/phd-student-payal-mohapatra-selected-for-eecs-rising-stars-workshop.html">article</a> by Northwestern.
     </li>
     <li><strong>June 2024</strong> - Started my summer internship with Meta Reality Labs as a Research Scientist.</li>
@@ -110,7 +110,7 @@ Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https:
 
 .scrollable-timeline li {
   margin-bottom: 15px;
-  list-style-type: disc; /* Use default bullets instead of manual dots */
+  list-style-type: none; /* Use default bullets instead of manual dots */
   padding-left: 5px;
 }
 

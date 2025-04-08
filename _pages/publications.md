@@ -78,6 +78,12 @@ author_profile: true
 
 ### 📺 Media Coverage
 
+
+#### Research Profile – 2025  
+I was selected as one of the six speakers at the *Code and Data Exchange* symposium at Northwestern and got featured here: **[Lightening Talk](https://codex.northwestern.edu/program/lightning-talks/)**.
+
+---
+
 #### PNAS Nexus Paper – October 2024  
 Our paper, *"Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers"*, was featured in several tech news outlets: **[MSN](https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR#)**, **[TechXplore](https://techxplore.com/news/2024-10-wearable-sensors-track-fatigue-factory.html#google_vignette)**, **[PopSci](https://www.popsci.com/technology/worker-fatigue-sensors/)**, **[News-Medical](https://www.news-medical.net/news/20241015/Innovative-system-tracks-physical-fatigue-among-workers-in-manufacturing-settings.aspx)**, **[Yahoo Tech](https://tech.yahoo.com/wearables/articles/wearable-sensors-monitor-factory-worker-185312026.html)**, **[Northwestern Engineering](https://www.mccormick.northwestern.edu/news/articles/2024/10/improving-the-occupational-health-of-manufacturing-workers/?utm_source=linkedin&utm_medium=social-post&utm_campaign=mcc-news-social-promo&utm_content=___)**, etc.
 

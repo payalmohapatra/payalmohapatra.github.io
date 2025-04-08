@@ -23,7 +23,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu.
         <h3>2-Minute Overview</h3>
         <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
             <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                    src="https://youtube.com/shorts/OGLrQtyFE0E" 
+                    src="https://www.youtube.com/embed/OGLrQtyFE0E" 
                     frameborder="0" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                     allowfullscreen>
@@ -34,7 +34,7 @@ You can reach me at payalmohapatra2026 at u dot northwestern dot edu.
         <h3>5-Minute Deep Dive</h3>
         <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
             <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                    src="https://youtu.be/E9ADR7OQ6Vk" 
+                    src="https://www.youtube.com/embed/E9ADR7OQ6Vk" 
                     frameborder="0" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                     allowfullscreen>

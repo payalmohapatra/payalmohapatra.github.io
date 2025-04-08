@@ -17,31 +17,7 @@ Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https:
 
 📧 You can reach me at payalmohapatra2026 at u dot northwestern dot edu. And here is a [link to my CV](http://payalmohapatra.github.io/files/CV_Payal_Industry_Feb_2025.pdf) (last updated February 2025).
 
-If you prefer an audio-visual version of my research,
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
-        here is a 2-Minute overview (24, October 2024 : Lightning Talk at MIT, EECS Rising Stars.) and
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                    src="https://www.youtube.com/embed/OGLrQtyFE0E" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-            </iframe>
-        </div>
-    </div>
-    <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
-        a 5-Minute overview (8, April 2025 : Lightning Talk at Northwestern University, CoDEX.)
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                    src="https://www.youtube.com/embed/E9ADR7OQ6Vk" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-            </iframe>
-        </div>
-    </div>
-</div>
+
 
 ## Ongoing Projects
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -137,6 +113,32 @@ If you prefer an audio-visual version of my research,
 }
 
 </style>
+
+If you prefer an audio-visual version of my research,
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="flex: 1 1 250px; background-color:rgb(255, 255, 255); padding: 20px; border-radius: 8px;">
+        here is a 2-Minute overview (24, October 2024 : Lightning Talk at MIT, EECS Rising Stars.) and
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+                    src="https://www.youtube.com/embed/OGLrQtyFE0E" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+    <div style="flex: 1 1 250px; background-color:rgb(255, 255, 255); padding: 20px; border-radius: 8px;">
+        a 5-Minute overview (8, April 2025 : Lightning Talk at Northwestern University, CoDEX.)
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+                    src="https://www.youtube.com/embed/E9ADR7OQ6Vk" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+</div>
 
 
 ## Services

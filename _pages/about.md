@@ -63,7 +63,7 @@ If you prefer an audio-visual version of my research,
 <div class="scrollable-timeline">
   <ul>
     <li><strong>June 2025</strong> - I will be interning with Mitsubishi Electric Labs (MERL), Boston, MA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕).</li>
-    <li><strong>May 2025</strong> - Submitted two papers to Neurips on time-series interpretability and learning from dynamic mulitmodal time-series.</li>
+    <li><strong>May 2025</strong> - Submitted two papers to Neurips on time-series interpretability and learning from dynamic multimodal time-series.</li>
     <li><strong>May 2025</strong> - Our paper <em>Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs<em> got accepted at ACL Main Conference.</li>
     <li><strong>April 2025</strong> — Selected as one of six speakers to present a <em>Lightning Talk</em> at <a href="https://codex.northwestern.edu/program/lightning-talks/" target="_blank">CoDEX symposium</a>, Northwestern University.</li>
     <li><strong>February 2025</strong> - Submitted our paper on surface-EMG based silent-speech recognition using LLMs to ACL.</li>

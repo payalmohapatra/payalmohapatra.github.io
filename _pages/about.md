@@ -15,7 +15,7 @@ My research is focused on human-centric applications that bridge computer scienc
 Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https://www.analog.com/), developing formal verification methods for application-specific ICs. I hold a Masters by Research in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/), where I designed [a sensing and algorithms framework for cardiac wearables](https://prezi.com/p/6t5mfk8bzu04/ms-seminar-1/).
 
 
-📧 You can reach me at payalmohapatra2026 at u dot northwestern dot edu. And here is a [link to my CV](http://payalmohapatra.github.io/files/CV_Payal_Industry_Feb_2025.pdf) (last updated February 2025).
+📧 You can reach me at payalmohapatra2026 at u dot northwestern dot edu. And here is a [link to my CV](https://github.com/payalmohapatra/payalmohapatra.github.io/blob/master/files/CV_Payal_June_2025.pdf) (last updated June 2025).
 
 If you prefer an audio-visual version of my research,
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -59,6 +59,8 @@ If you prefer an audio-visual version of my research,
 <div class="scrollable-timeline">
   <ul>
     <li><strong>June 2025</strong> - I will be interning with Mitsubishi Electric Labs (MERL), Boston, MA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕).</li>
+    <li><strong>May 2025</strong> - Submitted two papers to Neurips on time-series interpretability and learning from dynamic mulitmodal time-series.</li>
+    <li><strong>May 2025</strong> - Our paper <em>Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs<em> got accepted at ACL Main Conference.</li>
     <li><strong>April 2025</strong> — Selected as one of six speakers to present a <em>Lightning Talk</em> at <a href="https://codex.northwestern.edu/program/lightning-talks/" target="_blank">CoDEX symposium</a>, Northwestern University.</li>
     <li><strong>February 2025</strong> - Submitted our paper on surface-EMG based silent-speech recognition using LLMs to ACL.</li>
     <li><strong>January 2025</strong> - Submitted our paper on head-orientation based acoustic zones' localization to IMWUT.</li>

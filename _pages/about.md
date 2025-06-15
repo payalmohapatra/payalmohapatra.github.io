@@ -16,7 +16,7 @@ Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https:
 
 
 📧 You can reach me at *payalmohapatra2026 [at] u [dot] northwestern [dot] edu*.  
-📄 [View my CV](./files/CV_Payal_June_2025.pdf) *(last updated: June 2025)*
+<!-- 📄 [View my CV](./files/CV_Payal_June_2025.pdf) *(last updated: June 2025)* -->
 
 
 <!-- (https://github.com/payalmohapatra/payalmohapatra.github.io/blob/master/files/CV_Payal_June_2025.pdf)  -->

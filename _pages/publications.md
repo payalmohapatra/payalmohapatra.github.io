@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
+<ins>Mohapatra, Payal</ins>\*, Akash Pandey\*, Xiaoyuan Zhang\*, and Qi Zhu.  
+**"Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs."** *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL): Main Conference*, 2025. [[Paper](https://arxiv.org/abs/2506.00304)][[Code](https://github.com/payalmohapatra/SilentSpeechLLM)][Talk]
 
 Wang, Lixu, Bingqi Shang, Yi Li, <ins>Payal Mohapatra</ins>, Wei Dong, Xiao Wang, and Qi Zhu.  
 **"Split Adaptation for Pre-trained Vision Transformers."** *CVPR 2025*. [[Paper](https://arxiv.org/abs/2503.00441)]
@@ -55,7 +56,6 @@ Wang, Lixu, Bingqi Shang, Yi Li, <ins>Payal Mohapatra</ins>, Wei Dong, Xiao Wang
 **"A Novel Sensor for Wrist Based Optical Heart Rate Monitor."**  
 *IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*, 2017.  
 [[Paper](https://ieeexplore.ieee.org/abstract/document/7969842)]
-
 
 ## Non-Archival Presentations
 

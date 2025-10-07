@@ -108,11 +108,9 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 /* Link colors - Minimal design with subtle accent */
-$link-color                 : $text-color;           /* Same as body text for minimal look */
+$link-color                 : $text-secondary;       /* Slightly lighter than body text */
 $link-color-hover           : $secondary-color;      /* Terracotta on hover for interaction */
-$link-color-visited         : $text-color;           /* Keep visited links the same */
-$link-underline             : rgba($text-secondary, 0.3);  /* Very subtle underline */
-$link-underline-hover       : $secondary-color;      /* Clear terracotta underline on hover */
+$link-color-visited         : $text-secondary;       /* Keep visited links the same */
 
 /* Highlighted/Important links (use class .link-highlight or .link-important) */
 $link-highlight-color       : $secondary-color;      /* Terracotta for important links */

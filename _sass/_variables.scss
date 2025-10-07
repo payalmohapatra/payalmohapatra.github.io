@@ -28,6 +28,7 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
+/* Enhanced font families for midnight blue/terracotta theme */
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
@@ -44,45 +45,47 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
-   Colors
+   Colors - Midnight Blue & Terracotta Theme
    ========================================================================== */
 
-
-/* Neutral grays used for UI elements */
-$gray                       : #6f7b7b; /* muted slate */
-$dark-gray                  : mix(#000, $gray, 45%);
-$darker-gray                : mix(#000, $gray, 65%);
-$light-gray                 : mix(#fff, $gray, 48%);
-$lighter-gray               : mix(#fff, $gray, 92%);
-
-/* Page background and content colors (user-provided palette) */
+/* Main Brand Colors */
 $primary-color              : #1e3a52;        /* Midnight blue (headings, primary actions) */
 $secondary-color            : #c85a3f;        /* Terracotta (accents, highlights) */
 $tertiary-color             : #2d5573;        /* Medium blue (secondary elements) */
 
-/* Supporting colors */
+/* Supporting Accent Colors */
 $accent-warm                : #e8a846;        /* Golden amber (success states, highlights) */
 $accent-cool                : #5a7d9a;        /* Slate blue (info, links) */
 
-/* Neutrals */
-$body-color                 : #fdfbf9;        /* Warm off-white */
+/* Page Background and Surface Colors */
+$body-color                 : #fdfbf9;        /* Warm off-white background */
 $background-color           : #fdfbf9;
 $surface-color              : #ffffff;        /* Pure white for cards/sections */
+$code-background-color      : #f5f2ed;        /* Warm light beige for code blocks */
+
+/* Text Colors */
 $text-color                 : #2a2622;        /* Warm charcoal (main text) */
 $text-secondary             : #5a524e;        /* Muted brown-gray (secondary text) */
 $text-muted                 : #8a8078;        /* Light gray-brown (captions, dates) */
 
-/* Borders & dividers */
+/* Borders & Dividers */
 $border-color               : #ebe6e0;        /* Warm light gray */
 $border-dark                : #d4cec5;        /* Medium warm gray */
 
-/* Semantic colors (optional mapping) */
+/* Neutral grays (legacy support) */
+$gray                       : #8a8078;        /* Aligned with text-muted */
+$dark-gray                  : #5a524e;        /* Aligned with text-secondary */
+$darker-gray                : #2a2622;        /* Aligned with text-color */
+$light-gray                 : #d4cec5;        /* Aligned with border-dark */
+$lighter-gray               : #ebe6e0;        /* Aligned with border-color */
+
+/* Semantic colors */
 $success-color              : #6b8e6f;        /* Muted sage green */
 $warning-color              : #e8a846;        /* Warm amber */
 $danger-color               : #c85a3f;        /* Terracotta */
 $info-color                 : #5a7d9a;        /* Slate blue */
 
-/* brands */
+/* Social media brand colors */
 $behance-color              : #1769FF;
 $dribbble-color             : #ea4c89;
 $facebook-color             : #3b5998;
@@ -104,13 +107,25 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
+/* Link colors - Enhanced for better hierarchy */
+$link-color                 : $accent-cool;          /* Slate blue for body links */
+$link-color-hover           : $secondary-color;      /* Terracotta on hover */
+$link-color-visited         : mix(#000, $link-color, 25%);
+$masthead-link-color        : $primary-color;        /* Midnight blue for nav */
+$masthead-link-color-hover  : $secondary-color;      /* Terracotta on hover */
 
-/* links */
-$link-color                 : $accent-cool; /* use palette's slate blue */
-$link-color-hover           : mix(#000, $link-color, 18%);
-$link-color-visited         : mix(#fff, $link-color, 18%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 18%);
+/* Button colors */
+$btn-primary-color          : $primary-color;
+$btn-primary-hover          : $tertiary-color;
+$btn-secondary-color        : $secondary-color;
+$btn-secondary-hover        : mix(#000, $secondary-color, 15%);
+
+/* Notice/Callout colors */
+$notice-primary             : lighten($primary-color, 45%);
+$notice-info                : lighten($info-color, 45%);
+$notice-warning             : lighten($warning-color, 45%);
+$notice-success             : lighten($success-color, 45%);
+$notice-danger              : lighten($danger-color, 45%);
 
 
 /*
@@ -118,19 +133,13 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 18%);
    ========================================================================== */
 
 @include breakpoint-set("to ems", true);
-/*
-$small                      : 400px;
-$medium                     : 500px;
-$medium-wide                : 550px;
-$large                      : 1200px;
-$x-large                    : 1800px;
-*/
 
 $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
+
 
 /*
    Grid
@@ -149,12 +158,6 @@ $susy: (
   gutter-position: after,
   container: $large,
   global-box-sizing: border-box,
-  // debug: (
-  //   image: show,
-  //   color: blue,
-  //   output: overlay,
-  //   toggle: top right,
-  // ),
 );
 
 
@@ -164,6 +167,16 @@ $susy: (
 
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$box-shadow-large           : 0 2px 8px rgba(30, 58, 82, 0.08); /* Subtle midnight blue shadow */
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+/* Spacing scale (optional but recommended) */
+$spacing-unit               : 1rem;
+$spacing-xs                 : $spacing-unit * 0.25;  // 4px
+$spacing-sm                 : $spacing-unit * 0.5;   // 8px
+$spacing-md                 : $spacing-unit;         // 16px
+$spacing-lg                 : $spacing-unit * 1.5;   // 24px
+$spacing-xl                 : $spacing-unit * 2;     // 32px
+$spacing-2xl                : $spacing-unit * 3;     // 48px

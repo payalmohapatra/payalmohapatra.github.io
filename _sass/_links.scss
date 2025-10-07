@@ -2,20 +2,18 @@
    Minimal Link Styles - Add to your main SCSS or create custom.scss
    ========================================================================== */
 
-/* Default minimal links - blend into text */
+/* Default minimal links - no underline, just lighter color */
 a {
-  color: $text-color;
+  color: $text-secondary;  /* Slightly lighter than body text */
   text-decoration: none;
-  border-bottom: 1px solid rgba($text-secondary, 0.3);
   transition: all 0.2s ease-in-out;
   
   &:hover {
     color: $secondary-color;
-    border-bottom-color: $secondary-color;
   }
   
   &:visited {
-    color: $text-color;
+    color: $text-secondary;
   }
 }
 
@@ -25,12 +23,13 @@ a.link-important,
 .link-highlight a,
 .link-important a {
   color: $secondary-color;
-  border-bottom: 1px solid rgba($secondary-color, 0.4);
+  text-decoration: none;
   font-weight: 500;
   
   &:hover {
     color: mix(#000, $secondary-color, 15%);
-    border-bottom-color: mix(#000, $secondary-color, 15%);
+    text-decoration: underline;
+    text-decoration-color: mix(#000, $secondary-color, 15%);
   }
 }
 
@@ -38,24 +37,26 @@ a.link-important,
 a.link-strong,
 .link-strong a {
   color: $secondary-color;
-  border-bottom: 2px solid $secondary-color;
+  text-decoration: underline;
+  text-decoration-color: $secondary-color;
+  text-decoration-thickness: 2px;
   font-weight: 600;
-  padding-bottom: 1px;
+  text-underline-offset: 2px;
   
   &:hover {
     color: $primary-color;
-    border-bottom-color: $primary-color;
+    text-decoration-color: $primary-color;
     background-color: rgba($secondary-color, 0.05);
   }
 }
 
-/* No underline option - for navigation or when you want truly minimal */
+/* No underline option - truly minimal, color only */
 a.link-plain,
 .link-plain a {
-  border-bottom: none;
+  color: $text-secondary;
   
   &:hover {
-    border-bottom: 1px solid $secondary-color;
+    color: $secondary-color;
   }
 }
 
@@ -64,7 +65,7 @@ a.link-plain,
 .site-nav a,
 .greedy-nav a {
   color: $primary-color;
-  border-bottom: none;
+  text-decoration: none;
   
   &:hover {
     color: $secondary-color;
@@ -74,18 +75,17 @@ a.link-plain,
 /* Author sidebar and other special areas */
 .author__urls a,
 .sidebar a {
-  border-bottom: none;
+  text-decoration: none;
   
   &:hover {
-    text-decoration: underline;
-    text-decoration-color: $secondary-color;
+    color: $secondary-color;
   }
 }
 
 /* Button-style links (optional) */
 a.btn,
 .btn a {
-  border-bottom: none;
+  text-decoration: none;
   background-color: transparent;
   border: 1px solid $primary-color;
   color: $primary-color;

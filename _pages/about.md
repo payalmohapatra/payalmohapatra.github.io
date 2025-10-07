@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/name_pronounce.mp3', 'pronunciation', 'width=320,height=100');">hear pronunciation📢</a>). I am a fourth-year PhD candidate in Computer Engineering at Northwestern University, part of the [IDEAS Lab](http://zhulab.eecs.northwestern.edu/) and advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). 
+Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/name_pronounce.mp3', 'pronunciation', 'width=320,height=100');">hear pronunciation📢</a>). I am a final year PhD candidate in Computer Engineering at Northwestern University, part of the [IDEAS Lab](http://zhulab.eecs.northwestern.edu/){: .link-plain} and advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/){: .link-plain}. 
 
 My research is focused on human-centric applications that bridge computer science and health. Specifically, I develop machine learning techniques for real-world challenges involving audio, healthcare, and time-series sensor data. These applications are pervasive but often come with challenges in data analysis and model development. I aim to design robust algorithms that handle issues like data quality, sparsity, and resource constraints. A significant part of my work explores the trade-offs between personalization and generalization in algorithm design, with an emphasis on making technology more inclusive for underrepresented users (e.g., atypical speakers in voice technology, and skin-tone diversity in optical heart rate monitoring). In addition to model performance, I prioritize explainability and resource efficiency. 
 

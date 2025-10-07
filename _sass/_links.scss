@@ -51,6 +51,7 @@ a.link-strong,
 a.link-plain,
 .link-plain a {
   color: $text-secondary;
+  text-decoration: none;
   
   &:hover {
     color: $secondary-color;

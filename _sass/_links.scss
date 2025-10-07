@@ -6,15 +6,12 @@
 a {
   color: $text-secondary;  /* Slightly lighter than body text */
   text-decoration: none;
-  transition: all 0.2s ease-in-out;
+  // transition: all 0.2s ease-in-out;
   
   &:hover {
     color: $secondary-color;
   }
   
-  &:visited {
-    color: $text-secondary;
-  }
 }
 
 /* Highlighted/Important links - use these classes for emphasis */

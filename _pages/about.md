@@ -47,6 +47,44 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
   </ul>
 </div>
 
+<style>
+.scrollable-timeline {
+  height: 400px;
+  overflow-y: auto;
+  border: 1px solid rgba($secondary-color, 0.3);
+  padding: 15px;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+.scrollable-timeline ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.scrollable-timeline li {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+.scrollable-timeline strong {
+  color: $primary-color;
+  font-weight: 600;
+}
+
+.scrollable-timeline a {
+  color: $secondary-color;
+  text-decoration: none;
+}
+
+.scrollable-timeline a:hover {
+  color: mix(#000, $secondary-color, 15%);
+  text-decoration: underline;
+}
+</style>
+
+
 ## Selected Papers
 
 <div class="paper-card">
@@ -91,7 +129,13 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 </div>
 
 
+## Selected Recognition
 
+* **Invited Speaker** (2025) - Real-time Commnuication Conference and Expo at Illinois Institute of Technology.
+* **EECS Rising Star** (2024) – MIT Workshop
+* **Third Place**, e-Prevention Challenge, ICASSP'23 (2023)
+* **Best Research Presentatin**, at DAC Yong Fellowship (2021)
+* **Graduate Research Fellowship**, Northwestern University (2021-2025)
 
 ## Services
 * Reviewer: ICASSP'25, ICLR'25, NeurIPS'24 (TSALM workshop), IMWUT'24, IROS'24, ICASSP'24

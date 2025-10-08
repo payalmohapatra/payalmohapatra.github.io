@@ -131,11 +131,11 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 ## Selected Recognition
 
-* <span class="highlight-midnight">Invited Speaker</span> (2025) – Real-Time Communication Conference and Expo, Illinois Institute of Technology
-* <span class="highlight-midnight">EECS Rising Star</span> (2024) – MIT Workshop
+* <span class="highlight-midnight">EECS Rising Star,</span> MIT Workshop (2024)
+* <span class="highlight-midnight">Top Performer</span>, Computational Paralinguistics Challenge (ComParE), ACM Multimedia 2023
 * <span class="highlight-midnight">Third Place</span>, e-Prevention Challenge, ICASSP 2023
-* <span class="highlight-midnight">Best Research Presentation</span>, DAC Young Fellowship (2021)
-<!-- * <span class="highlight-midnight">Graduate Research Fellowship</span> (2021–2025), Northwestern University -->
+* <span class="highlight-midnight">Best Research Video</span>, Design Automation Conference Young Fellowship, (2021)
+* <span class="highlight-midnight">Winner</span>, Make-in-India Anveshan Design Challenge, Analog Devices Inc. (2017)
 
 ## Services
 * Reviewer: ICASSP'25, ICLR'25, NeurIPS'24 (TSALM workshop), IMWUT'24, IROS'24, ICASSP'24

@@ -125,6 +125,12 @@ a.btn,
   font-weight: 600;
 }
 
+/* NEW: Midnight blue highlight with lighter bold weight for minimal emphasis */
+.highlight-midnight {
+  color: $primary-color;  /* Midnight blue */
+  font-weight: 500;  /* Lighter than default bold (700) but more than normal (400) */
+}
+
 /* Background highlighting */
 .highlight-bg {
   background-color: rgba($secondary-color, 0.1);

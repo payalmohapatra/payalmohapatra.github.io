@@ -24,16 +24,10 @@ Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/nam
 
 From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worked on the consumer electronics team and supported the tape-out of two chips. I earned my Master’s in Electrical Engineering from IIT Madras, India, where I designed an end-to-end cardiac wrist-wearable (sensor and on-device algorithms) robust to skin pigmentation variations. My research interests are a product of my broad system level experience in consumer sensing devices that helps me prioritize pragmatism while developing state-of-the-art machine learning methods for sensing applications.
 
-<div class="callout-box-minimal">
-  <p>I am actively searching for full-time research roles in industry and academia.</p>
+<div class="callout-box-jobmarket">
+  <p>I am searching for full-time research roles in industry and academia.</p>
 </div>
 
-
-<!-- 📧 You can reach me at *payalmohapatra2026 [at] u [dot] northwestern [dot] edu*.  
-<!-- 📄 [View my CV](./files/CV_Payal_June_2025.pdf) *(last updated: June 2025)* -->
-
-
-<!-- (https://github.com/payalmohapatra/payalmohapatra.github.io/blob/master/files/CV_Payal_June_2025.pdf)  -->
 
 <!-- If you prefer an audio-visual version of my research,
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">

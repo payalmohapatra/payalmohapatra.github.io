@@ -24,17 +24,18 @@ Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/nam
 
 From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worked on the consumer electronics team and supported the tape-out of two chips. I earned my Master’s in Electrical Engineering from IIT Madras, India, where I designed an end-to-end cardiac wrist-wearable (sensor and on-device algorithms) robust to skin pigmentation variations. My research interests are a product of my broad system level experience in consumer sensing devices that helps me prioritize pragmatism while developing state-of-the-art machine learning methods for sensing applications.
 
-<div class="callout-box">
-  <p>I am actively searching for <span class="highlight-phrase">full-time research roles</span> in industry and academia.</p>
+<div class="callout-box-minimal">
+  <p>I am actively searching for full-time research roles in industry and academia.</p>
 </div>
 
-📧 You can reach me at *payalmohapatra2026 [at] u [dot] northwestern [dot] edu*.  
+
+<!-- 📧 You can reach me at *payalmohapatra2026 [at] u [dot] northwestern [dot] edu*.  
 <!-- 📄 [View my CV](./files/CV_Payal_June_2025.pdf) *(last updated: June 2025)* -->
 
 
 <!-- (https://github.com/payalmohapatra/payalmohapatra.github.io/blob/master/files/CV_Payal_June_2025.pdf)  -->
 
-If you prefer an audio-visual version of my research,
+<!-- If you prefer an audio-visual version of my research,
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <div style="flex: 1 1 250px; background-color:rgb(255, 255, 255); padding: 20px; border-radius: 8px;">
         here is a 2-Minute overview (24, October 2024 : Lightning Talk at MIT, EECS Rising Stars.) and
@@ -58,9 +59,9 @@ If you prefer an audio-visual version of my research,
             </iframe>
         </div>
     </div>
-</div>
+</div> -->
 
-## Ongoing Projects
+<!-- ## Ongoing Projects
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
         <h3>Learning from Irregular and Heterogenous Modalities</h3>
@@ -70,94 +71,73 @@ If you prefer an audio-visual version of my research,
         <h3>Practitioner's Guide to Manufacturing Workplace Safety</h3>
         <p>Collaborating with Boeing and MxD to create a browsable repository of COTS sensors and wearable-data analytics to enhance workplace safety by quantifying risk factors. Assessing the validity of off-the-shelf pose analytics for extracting ergonomic risk metrics (RULA/REBA scores).</p>
     </div>
-</div>
-
+</div> --> -->
 ## News
 <div class="scrollable-timeline">
   <ul>
-    <li><strong>June 2025</strong> - I will be interning with Mitsubishi Electric Labs (MERL), Boston, MA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕).</li>
-    <li><strong>May 2025</strong> - Submitted two papers to Neurips on time-series interpretability and learning from dynamic multimodal time-series.</li>
-    <li><strong>May 2025</strong> - Our paper <em>Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs</em> got accepted at ACL Main Conference.</li>
-    <li><strong>April 2025</strong> — Selected as one of six speakers to present a <em>Lightning Talk</em> at <a href="https://codex.northwestern.edu/program/lightning-talks/" target="_blank">CoDEX symposium</a>, Northwestern University.</li>
-    <li><strong>February 2025</strong> - Submitted our paper on surface-EMG based silent-speech recognition using LLMs to ACL.</li>
-    <li><strong>January 2025</strong> - Submitted our paper on head-orientation based acoustic zones' localization to IMWUT.</li>
-    <li><strong>January 2025</strong> - Submitted our paper on phase-driven domain generalization for time series to TMLR.</li>
-    <li><strong>December 2024🏃‍♀️</strong> - Successfully passed my PhD Prospectus examination — 2/3 of the journey complete!</li>
-    <li><strong>October 2024📰</strong> - Our paper <em>Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers</em> is accepted in PNAS Nexus journal. Featured by tech news outlets like 
-      <a href="https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR#">MSN</a>, 
-      <a href="https://techxplore.com/news/2024-10-wearable-sensors-track-fatigue-factory.html#google_vignette">TechXplore</a>, 
-      <a href="https://www.popsci.com/technology/worker-fatigue-sensors/">PopSci</a>, 
-      <a href="https://www.news-medical.net/news/20241015/Innovative-system-tracks-physical-fatigue-among-workers-in-manufacturing-settings.aspx">News-Medical</a>, 
-      <a href="https://tech.yahoo.com/wearables/articles/wearable-sensors-monitor-factory-worker-185312026.html">Yahoo Tech</a>, 
-      <a href="https://www.mccormick.northwestern.edu/news/articles/2024/10/improving-the-occupational-health-of-manufacturing-workers/?utm_source=linkedin&utm_medium=social-post&utm_campaign=mcc-news-social-promo&utm_content=___">Northwestern Engineering</a>.
-    </li>
-    <li><strong>August 2024🏆</strong> - Excited to be selected as the EECS Rising Star 2024! Invited to the 2-day workshop hosted at MIT in October. Read more in this 
-      <a href="https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/phd-student-payal-mohapatra-selected-for-eecs-rising-stars-workshop.html">article</a> by Northwestern.
-    </li>
-    <li><strong>June 2024</strong> - Started my summer internship with Meta Reality Labs as a Research Scientist.</li>
-    <li><strong>June 2024</strong> - Our paper on <em>Missingness-resilient Video-enhanced Multimodal Disfluency Detection</em> is accepted and chosen for oral presentation at InterSpeech'24.</li>
-    <li><strong>February 2024</strong> - My internship work with Meta Reality Labs on efficient event detection on smart glasses—Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks—is now <a href="https://arxiv.org/abs/2408.11346">live</a>!</li>
-    <li><strong>October 2023</strong> - Corresponding with Meta Reality Labs, Audio Research group as a part-time student researcher.</li>
-    <li><strong>July 2023</strong> - Our paper on the <em>Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks</em> has been accepted for ACM Multimedia 2023 Multimedia Grand Challenges Track.</li>
-    <li><strong>June 2023</strong> - I will be interning with Meta Reality Labs, Redmond, WA this summer as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕).</li>
-    <li><strong>May 2023</strong> - We are participating in the ACM Multimedia 2023 Computational Paralinguistics Challenge (ComParE).</li>
-    <li><strong>February 2023</strong> - Our paper on <em>Efficient Stuttering Event Detection using Siamese Networks</em> is accepted in ICASSP'23.</li>
-    <li><strong>February 2023</strong> - Secured third place in <em>e-Prevention: Person Identification and Relapse Detection from Continuous Recordings of Biosignals Challenge</em> in ICASSP'23. Invited to present a paper on methodology - <em>Person Identification with Wearable Sensing using Missing Feature Encoding and Multi-Stage Modality Fusion</em>.</li>
-    <li><strong>December 2022</strong> - Demonstrated final working prototype of fatigue prediction in workers with near-real-time visualization at the Boeing, Everett, Washington, factory floor.</li>
-    <li><strong>August 2022</strong> - Demonstrated initial working prototype of fatigue prediction in workers with near-real-time visualization at the John Deere, Knoxville, Tennessee, factory floor.</li>
-    <li><strong>July 2022</strong> - Presented <em>Speech Disfluency Detection with Contextual Representation and Data Distillation</em> at Intelligent Acoustic Systems and Applications co-located with MobiSys'22.</li>
-    <li><strong>April 2022</strong> - Presented poster on <em>Speech Disfluency Detection under Data Constraints</em> at CRA-WP grad cohort at New Orleans, Louisiana.</li>
+    <li><strong>Oct 2025</strong> – Invited talk at the <em>Real-time Communications Conference and Expo</em> at Illinois Institute of Technology</li>
+    <li><strong>Sept 2025</strong> – Our paper <em>Phase-driven Generalizable Representation Learning for Nonstationary Time Series Classification</em> accepted at TMLR 2025 and TS4H Workshop at NeurIPS 2025</li>
+    <li><strong>Sept 2025 🌟</strong> – Our paper <em>MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series</em> accepted at NeurIPS 2025 as a spotlight (top 3%)</li>
+    <li><strong>June 2025</strong> – Interning with Mitsubishi Electric Labs (MERL), Boston, MA as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕)</li>
+    <li><strong>May 2025</strong> – Our paper <em>Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs</em> accepted at ACL Main Conference</li>
+    <li><strong>April 2025</strong> – Selected as one of six speakers to present a <em>Lightning Talk</em> at <a href="https://codex.northwestern.edu/program/lightning-talks/" target="_blank">CoDEX symposium</a>, Northwestern University</li>
+    <li><strong>Jan 2025</strong> – Submitted our paper on head-orientation based acoustic zones' localization to IMWUT</li>
+    <li><strong>Dec 2024 🏃‍♀️</strong> – Successfully passed my PhD Prospectus examination</li>
+    <li><strong>Oct 2024 📰</strong> – Our paper <em>Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers</em> accepted in PNAS Nexus. Featured by <a href="https://www.mccormick.northwestern.edu/news/articles/2024/10/improving-the-occupational-health-of-manufacturing-workers/" target="_blank">Northwestern Engineering</a>, <a href="https://www.popsci.com/technology/worker-fatigue-sensors/" target="_blank">PopSci</a>, and other outlets</li>
+    <li><strong>Aug 2024 🏆</strong> – Selected as EECS Rising Star 2024. Invited to MIT workshop (<a href="https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/phd-student-payal-mohapatra-selected-for-eecs-rising-stars-workshop.html" target="_blank">article</a>)</li>
+    <li><strong>June 2024</strong> – Started summer internship with Meta Reality Labs as a Research Scientist</li>
+    <li><strong>June 2024</strong> – Our paper <em>Missingness-resilient Video-enhanced Multimodal Disfluency Detection</em> accepted for oral presentation at InterSpeech 2024</li>
+    <li><strong>Feb 2024</strong> – Internship work with Meta Reality Labs on <em>Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks</em> now <a href="https://arxiv.org/abs/2408.11346" target="_blank">live</a></li>
+    <li><strong>Oct 2023</strong> – Collaborating with Meta Reality Labs Audio Research group as part-time student researcher</li>
+    <li><strong>July 2023</strong> – Our paper <em>Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks</em> accepted at ACM Multimedia 2023 Grand Challenges Track</li>
+    <li><strong>June 2023</strong> – Interning with Meta Reality Labs, Redmond, WA as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕)</li>
+    <li><strong>Feb 2023</strong> – Our paper <em>Efficient Stuttering Event Detection using Siamese Networks</em> accepted at ICASSP 2023</li>
+    <li><strong>Feb 2023</strong> – Secured third place in <em>e-Prevention Challenge</em> at ICASSP 2023. Invited to present <em>Person Identification with Wearable Sensing using Missing Feature Encoding and Multi-Stage Modality Fusion</em></li>
   </ul>
 </div>
 
 <style>
 .scrollable-timeline {
-  height: 400px; /* Set a fixed height */
-  overflow-y: auto; /* Enable vertical scrolling */
-  border: 1px solid #ddd; /* Optional: adds a border */
+  height: 400px;
+  overflow-y: auto;
+  border: 1px solid rgba($secondary-color, 0.3);
   padding: 15px;
   border-radius: 5px;
-  background-color: #f9f9f9; /* Light gray background */
-}
-
-.scrollable-timeline ul {
-  padding-left: 20px;
-  margin: 0;
-}
-
-.scrollable-timeline li {
-  margin-bottom: 15px;
-  list-style-type: none; /* Use default bullets instead of manual dots */
-  padding-left: 5px;
-}
-
-.scrollable-timeline strong {
-  color: #333;
-}
-
-.scrollable-timeline a {
-  color: #4a90e2;
-  text-decoration: none;
-}
-
-.scrollable-timeline a:hover {
-  text-decoration: underline;
+  background-color: transparent;
 }
 
 .scrollable-timeline ul {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 
 .scrollable-timeline li {
-  margin-bottom: 10px; /* Adds spacing between items for readability */
+  margin-bottom: 15px;
+  line-height: 1.6;
 }
 
+.scrollable-timeline strong {
+  color: $primary-color;
+  font-weight: 600;
+}
+
+.scrollable-timeline a {
+  color: $secondary-color;
+  text-decoration: none;
+}
+
+.scrollable-timeline a:hover {
+  color: mix(#000, $secondary-color, 15%);
+  text-decoration: underline;
+}
 </style>
 
+## Selected Papers
 
 
 
+## Selected Awards
 
 
 ## Services

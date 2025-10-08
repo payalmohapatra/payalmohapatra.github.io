@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/name_pronounce.mp3', 'pronunciation', 'width=320,height=100');">hear pronunciation</a>). I am a final year PhD candidate in Computer Engineering at Northwestern University advised by [Prof. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). I work on <span class="highlight-midnight">machine learning for time-series under practical constraints</span>, with a focus on healthcare and audio applications. Previously, I have been a student researcher at Mitsubishi Electric Research Labs (Summer 2025) and at Meta Reality Labs (Summers 2024 and 2023). My key research interests are:
+Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/name_pronounce.mp3', 'pronunciation', 'width=320,height=100');">hear pronunciation</a>). I am a final year PhD candidate in Computer Engineering at Northwestern University advised by [Prof. Qi Zhu](http://eecs.northwestern.edu/~qzhu/){: .link-plain}. I work on <span class="highlight-midnight">machine learning for time-series under practical constraints</span>, with a focus on healthcare and audio applications. Previously, I have been a student researcher at Mitsubishi Electric Research Labs (Summer 2025) and at Meta Reality Labs (Summers 2024 and 2023). My key research interests are:
 
 <span class="highlight-midnight">1. Practical Multimodal Learning</span>: I design efficient architectures for handling 10+ heterogeneous sensing modalities without combinatorial complexity. My work on MAESTRO ([NeurIPS Spotlight 2025](https://arxiv.org/pdf/2509.25278){: .link-highlight}) introduces sparse adaptive cross-attention with symbolic tokenization, replacing expensive pairwise operations with scalable multimodal fusion. I showed that explicitly encoding missingness improves longitudinal signal monitoring for person identification, achieving top performance in the [ICASSP'23 Signal Processing Grand Challenge](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&sortby=pubdate&citation_for_view=7ukGcz0AAAAJ:IjCSPb-OGe4C){: .link-highlight}. I also studied missingness in multimodal disfluency detection ([InterSpeech'24](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:YsMSGLbcyi4C){: .link-highlight}), where opportunistically incorporating video when available enhanced performance.
 
@@ -131,11 +131,11 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 ## Selected Recognition
 
-* Invited Speaker (2025) – Real-Time Communication Conference and Expo, Illinois Institute of Technology
-* EECS Rising Star (2024) – MIT Workshop
-* Third Place, e-Prevention Challenge, ICASSP 2023
-* Best Research Presentation, DAC Young Fellowship (2021)
-* Graduate Research Fellowship (2021–2025), Northwestern University
+* <span class="highlight-midnight">Invited Speaker</span> (2025) – Real-Time Communication Conference and Expo, Illinois Institute of Technology
+* <span class="highlight-midnight">EECS Rising Star</span> (2024) – MIT Workshop
+* <span class="highlight-midnight">Third Place</span>, e-Prevention Challenge, ICASSP 2023
+* <span class="highlight-midnight">Best Research Presentation</span>, DAC Young Fellowship (2021)
+* <span class="highlight-midnight">Graduate Research Fellowship</span> (2021–2025), Northwestern University
 
 ## Services
 * Reviewer: ICASSP'25, ICLR'25, NeurIPS'24 (TSALM workshop), IMWUT'24, IROS'24, ICASSP'24

@@ -232,3 +232,25 @@ a.btn,
     font-weight: 500;
   }
 }
+
+
+.callout-box-jobmarket {
+  background-color: rgba($primary-color, 0.03);
+  border: 2px solid $primary-color;
+  padding: 1.25rem 1.5rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+  
+  p {
+    margin: 0;
+    font-size: 1.05em;
+    line-height: 1.5;
+    color: $text-color;
+    font-style: normal;
+    
+    &:before {
+      content: "📢 ";
+      margin-right: 0.5em;
+    }
+  }
+}

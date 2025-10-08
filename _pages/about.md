@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+# title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,9 +19,9 @@ Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/nam
 
 From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worked on the consumer electronics team and supported the tape-out of two chips. I earned my Master's in Electrical Engineering from IIT Madras, India, where I designed an end-to-end cardiac wrist-wearable (sensor and on-device algorithms) robust to skin pigmentation variations. My research interests are a product of my broad system level experience in consumer sensing devices that helps me prioritize pragmatism while developing state-of-the-art machine learning methods for sensing applications.
 
-<div class="callout-box-jobmarket">
+<!-- <div class="callout-box-jobmarket">
   <p>I am searching for full-time research roles in industry and academia.</p>
-</div>
+</div> -->
 
 ## News
 <div class="scrollable-timeline">
@@ -49,7 +49,7 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 <style>
 .scrollable-timeline {
-  height: 400px;
+  height: 150px;
   overflow-y: auto;
   border: 1px solid rgba($secondary-color, 0.3);
   padding: 15px;
@@ -131,11 +131,11 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 ## Selected Recognition
 
-* **Invited Speaker** (2025) - Real-time Commnuication Conference and Expo at Illinois Institute of Technology.
-* **EECS Rising Star** (2024) – MIT Workshop
-* **Third Place**, e-Prevention Challenge, ICASSP'23 (2023)
-* **Best Research Presentatin**, at DAC Yong Fellowship (2021)
-* **Graduate Research Fellowship**, Northwestern University (2021-2025)
+* Invited Speaker (2025) – Real-Time Communication Conference and Expo, Illinois Institute of Technology
+* EECS Rising Star (2024) – MIT Workshop
+* Third Place, e-Prevention Challenge, ICASSP 2023
+* Best Research Presentation, DAC Young Fellowship (2021)
+* Graduate Research Fellowship (2021–2025), Northwestern University
 
 ## Services
 * Reviewer: ICASSP'25, ICLR'25, NeurIPS'24 (TSALM workshop), IMWUT'24, IROS'24, ICASSP'24

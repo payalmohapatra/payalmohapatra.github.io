@@ -14,9 +14,7 @@ My research is focused on human-centric applications that bridge computer scienc
 
 Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https://www.analog.com/), developing formal verification methods for application-specific ICs. I hold a Masters by Research in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/), where I designed [a sensing and algorithms framework for cardiac wearables](https://prezi.com/p/6t5mfk8bzu04/ms-seminar-1/). -->
 
-Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/name_pronounce.mp3', 'pronunciation', 'width=320,height=100');">hear pronunciation📢</a>). I am a final year PhD candidate in Computer Engineering at Northwestern University advised by [Prof. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). I work on machine learning for time-series data, with a focus on healthcare and audio applications under practical constraints. Previously, I have been a student researcher at Mitsubishi Electric Research Labs (Summer 2025) and at Meta Reality Labs (Summers 2024 and 2023).
-
-My overall research goal is to develop efficient and practical machine learning frameworks for real-world time-series applications. My key research interests are:
+Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/name_pronounce.mp3', 'pronunciation', 'width=320,height=100');">hear pronunciation📢</a>). I am a final year PhD candidate in Computer Engineering at Northwestern University advised by [Prof. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). I work on **machine learning for time-series**, with a focus on healthcare and audio applications **under practical constraints**. Previously, I have been a student researcher at Mitsubishi Electric Research Labs (Summer 2025) and at Meta Reality Labs (Summers 2024 and 2023). My key research interests are:
 
 **1. Practical Multimodal Learning**: I design efficient architectures for handling 10+ heterogeneous sensing modalities without combinatorial complexity. My work on MAESTRO ([NeurIPS Spotlight 2025](https://arxiv.org/pdf/2509.25278){: .link-highlight}) introduces sparse adaptive cross-attention with symbolic tokenization, replacing expensive pairwise operations with scalable multimodal fusion. In the [ICASSP'23 Signal Processing Grand Challenge](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&sortby=pubdate&citation_for_view=7ukGcz0AAAAJ:IjCSPb-OGe4C){: .link-highlight} I demonstrated that encoding missingness explicitly helps in monitoring longitudinal signals for person identification, evidenced by our top-performance. I have also studied missingness in the context of multimodal disfluency detection ([InterSpeech'24](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:YsMSGLbcyi4C){: .link-highlight}), where opportunistic incorporation of the video modality whenever available improves performance.
 
@@ -29,6 +27,12 @@ a) **Applications with Subjective Labels**: I demonstrated a framework to monito
 b) **Applications with Data Constraints**: 
    * I have designed data distillation and self-supervised learning frameworks for disfluency detection ([ICASSP'23](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:zYLM7Y9cAGgC){: .link-highlight}).
    * I have demonstrated state-of-the-art performance in understanding silent speech from surface EMG without paired audio data using Llama models ([ACL'25](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&sortby=pubdate&citation_for_view=7ukGcz0AAAAJ:Se3iqnhoufwC){: .link-highlight}).
+
+From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worked on the consumer electronics team and supported the tape-out of two chips. I earned my Master’s in Electrical Engineering from IIT Madras, India, where I designed a sensing and algorithms framework for cardiac wearables. My research interests are a product of my broad system level experience in consumer sensing devices that helps me prioritize pragmatism while developing state-of-the-art machine learning methods for sensing applications.
+
+<div class="callout-box">
+  <p>I am actively searching for <span class="highlight-phrase">full-time research roles</span> in industry and academia.</p>
+</div>
 
 📧 You can reach me at *payalmohapatra2026 [at] u [dot] northwestern [dot] edu*.  
 <!-- 📄 [View my CV](./files/CV_Payal_June_2025.pdf) *(last updated: June 2025)* -->

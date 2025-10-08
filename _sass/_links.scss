@@ -145,3 +145,90 @@ a.btn,
   padding-bottom: 1px;
   font-weight: 500;
 }
+
+
+/* ==========================================================================
+   Callout Box for Research Interests
+   ========================================================================== */
+
+.callout-box {
+  background-color: rgba($secondary-color, 0.08);
+  border-left: 4px solid $secondary-color;
+  padding: 1.5rem 1.75rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  
+  p {
+    margin: 0;
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: $text-color;
+    font-style: italic;
+    
+    &:first-child {
+      margin-top: 0;
+    }
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  
+  // Alternative: Highlight key phrase
+  .highlight-phrase {
+    color: $secondary-color;
+    font-weight: 600;
+    font-style: normal;
+  }
+}
+
+// Variation: Clean minimal style
+.callout-box-minimal {
+  border-left: 3px solid $secondary-color;
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  
+  p {
+    margin: 0;
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: $text-secondary;
+    font-style: italic;
+  }
+}
+
+// Variation: Accent style with warm color
+.callout-box-accent {
+  background-color: rgba($accent-warm, 0.12);
+  border-left: 4px solid $accent-warm;
+  padding: 1.5rem 1.75rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+  
+  p {
+    margin: 0;
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: $text-color;
+    font-style: italic;
+  }
+}
+
+// Variation: Bold statement style
+.callout-box-bold {
+  background-color: $primary-color;
+  color: #ffffff;
+  padding: 1.75rem 2rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+  
+  p {
+    margin: 0;
+    font-size: 1.15em;
+    line-height: 1.6;
+    color: #ffffff;
+    font-weight: 500;
+  }
+}

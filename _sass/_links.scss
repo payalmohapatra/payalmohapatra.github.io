@@ -254,3 +254,101 @@ a.btn,
     }
   }
 }
+
+
+
+/* ==========================================================================
+   Paper Cards - Minimal Style
+   ========================================================================== */
+
+.paper-card {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba($secondary-color, 0.15);
+}
+
+.paper-card:last-child {
+  border-bottom: none;
+}
+
+.paper-title {
+  font-size: 1.05em;
+  font-weight: 500;
+  color: $text-color;
+  margin-bottom: 0.4rem;
+  line-height: 1.4;
+}
+
+.paper-venue {
+  color: $secondary-color;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  font-size: 0.9em;
+}
+
+.paper-spotlight {
+  display: inline-block;
+  background-color: rgba($accent-warm, 0.2);
+  color: $primary-color;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 0.8em;
+  font-weight: 600;
+  margin-left: 0.5rem;
+  border: 1px solid rgba($accent-warm, 0.4);
+}
+
+.paper-authors {
+  color: $text-secondary;
+  margin-bottom: 0.75rem;
+  font-size: 0.88em;
+  line-height: 1.5;
+}
+
+.paper-buttons {
+  display: flex;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.paper-btn {
+  display: inline-block;
+  padding: 0.3rem 0.85rem;
+  text-decoration: none;
+  font-size: 0.85em;
+  font-weight: 500;
+  color: $text-secondary;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    color: $secondary-color;
+    border-color: $secondary-color;
+    background-color: rgba($secondary-color, 0.05);
+  }
+}
+
+.btn-highlight {
+  color: $secondary-color;
+  border-color: $secondary-color;
+  
+  &:hover {
+    color: $primary-color;
+    border-color: $primary-color;
+    background-color: rgba($primary-color, 0.05);
+  }
+}
+
+
+.paper-oral {
+  display: inline-block;
+  background-color: rgba($primary-color, 0.1);
+  color: $primary-color;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 0.8em;
+  font-weight: 600;
+  margin-left: 0.5rem;
+  border: 1px solid rgba($primary-color, 0.3);
+}

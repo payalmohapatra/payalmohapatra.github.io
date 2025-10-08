@@ -8,64 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/name_pronounce.mp3', 'pronunciation', 'width=320,height=100');">hear pronunciation📢</a>). I am a final year PhD candidate in Computer Engineering at Northwestern University, part of the [IDEAS Lab](http://zhulab.eecs.northwestern.edu/){: .link-plain} and advised by [Dr. Qi Zhu](http://eecs.northwestern.edu/~qzhu/){: .link-highlight}. 
-
-My research is focused on human-centric applications that bridge computer science and health. Specifically, I develop machine learning techniques for real-world challenges involving audio, healthcare, and time-series sensor data. These applications are pervasive but often come with challenges in data analysis and model development. I aim to design robust algorithms that handle issues like data quality, sparsity, and resource constraints. A significant part of my work explores the trade-offs between personalization and generalization in algorithm design, with an emphasis on making technology more inclusive for underrepresented users (e.g., atypical speakers in voice technology, and skin-tone diversity in optical heart rate monitoring). In addition to model performance, I prioritize explainability and resource efficiency. 
-
-Before my PhD, I worked as an IC design engineer at [Analog Devices Inc.](https://www.analog.com/), developing formal verification methods for application-specific ICs. I hold a Masters by Research in Electrical Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/), where I designed [a sensing and algorithms framework for cardiac wearables](https://prezi.com/p/6t5mfk8bzu04/ms-seminar-1/). -->
-
 Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/name_pronounce.mp3', 'pronunciation', 'width=320,height=100');">hear pronunciation📢</a>). I am a final year PhD candidate in Computer Engineering at Northwestern University advised by [Prof. Qi Zhu](http://eecs.northwestern.edu/~qzhu/). I work on **machine learning for time-series**, with a focus on healthcare and audio applications **under practical constraints**. Previously, I have been a student researcher at Mitsubishi Electric Research Labs (Summer 2025) and at Meta Reality Labs (Summers 2024 and 2023). My key research interests are:
 
-**1. Practical Multimodal Learning**: I design efficient architectures for handling 10+ heterogeneous sensing modalities without combinatorial complexity. My work on MAESTRO ([NeurIPS Spotlight 2025](https://arxiv.org/pdf/2509.25278){: .link-highlight}) introduces sparse adaptive cross-attention with symbolic tokenization, replacing expensive pairwise operations with scalable multimodal fusion. In the [ICASSP'23 Signal Processing Grand Challenge](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&sortby=pubdate&citation_for_view=7ukGcz0AAAAJ:IjCSPb-OGe4C){: .link-highlight} I demonstrated that encoding missingness explicitly helps in monitoring longitudinal signals for person identification, evidenced by our top-performance. I have also studied missingness in the context of multimodal disfluency detection ([InterSpeech'24](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:YsMSGLbcyi4C){: .link-highlight}), where opportunistic incorporation of the video modality whenever available improves performance.
+**1. Practical Multimodal Learning**: I design efficient architectures for handling 10+ heterogeneous sensing modalities without combinatorial complexity. My work on MAESTRO ([NeurIPS Spotlight 2025](https://arxiv.org/pdf/2509.25278){: .link-highlight}) introduces sparse adaptive cross-attention with symbolic tokenization, replacing expensive pairwise operations with scalable multimodal fusion. I showed that explicitly encoding missingness improves longitudinal signal monitoring for person identification, achieving top performance in the [ICASSP'23 Signal Processing Grand Challenge](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&sortby=pubdate&citation_for_view=7ukGcz0AAAAJ:IjCSPb-OGe4C){: .link-highlight}. I also studied missingness in multimodal disfluency detection ([InterSpeech'24](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:YsMSGLbcyi4C){: .link-highlight}), where opportunistically incorporating video when available enhanced performance.
 
 **2. Generalizable Time-Series Representations**: I build models robust to distribution shifts from device changes and signal nonstationarity—common in real-world applications. I proposed a phase-anchored generalizable representation learning framework that is performant across a wide range of applications from sleep stage classification using Electroencephalogram (EEG) to gesture recognition using Electromyography (EMG) ([TMLR'25](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:Y0pCki6q_DkC){: .link-highlight}, [TS4H@NeurIPS'25](https://openreview.net/forum?id=ZGSS2rNryO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FWorkshop%2FTS4H%2FAuthors%23your-submissions)){: .link-highlight}).
 
-**3. Human-Centric Applications**: I develop machine learning methods to support: a) *Applications with Subjective Labels*: I demonstrated a framework to monitor physical fatigue in manufacturing workers by designing custom optimization objectives ([PNAS Nexus'24](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:ufrVoPGSRksC){: .link-highlight}) at <span class="highlight-accent">Boeing</span> and <span class="highlight-accent">John Deere's</span> factory floors. I have also designed multi-label optimization objectives to model human auditory attention using smart glasses with <span class="highlight-accent">Meta Reality Labs</span>. b) *Applications with Data Constraints*: I have designed data distillation and self-supervised learning frameworks for disfluency detection ([ICASSP'23](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:zYLM7Y9cAGgC){: .link-highlight}). And, I have demonstrated state-of-the-art performance in understanding silent speech from surface EMG without paired audio data using Llama models ([ACL'25](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&sortby=pubdate&citation_for_view=7ukGcz0AAAAJ:Se3iqnhoufwC){: .link-highlight}).
+**3. Human-Centric Applications**: I develop ML methods for: a) *Subjective Labels*: I designed custom optimization objectives to monitor physical fatigue in manufacturing workers at <span class="highlight-accent">Boeing</span> and <span class="highlight-accent">John Deere</span> ([PNAS Nexus'24](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:ufrVoPGSRksC){: .link-highlight}) and multi-label objectives to model auditory attention with <span class="highlight-accent">Meta Reality Labs</span>. b) *Data Constraints*: I designed data distillation and self-supervised frameworks for disfluency detection ([ICASSP'23](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:zYLM7Y9cAGgC){: .link-highlight}) and achieved state-of-the-art silent speech understanding from surface EMG without paired audio using LLMs ([ACL'25](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&sortby=pubdate&citation_for_view=7ukGcz0AAAAJ:Se3iqnhoufwC){: .link-highlight}).
 
-From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worked on the consumer electronics team and supported the tape-out of two chips. I earned my Master’s in Electrical Engineering from IIT Madras, India, where I designed an end-to-end cardiac wrist-wearable (sensor and on-device algorithms) robust to skin pigmentation variations. My research interests are a product of my broad system level experience in consumer sensing devices that helps me prioritize pragmatism while developing state-of-the-art machine learning methods for sensing applications.
+
+From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worked on the consumer electronics team and supported the tape-out of two chips. I earned my Master's in Electrical Engineering from IIT Madras, India, where I designed an end-to-end cardiac wrist-wearable (sensor and on-device algorithms) robust to skin pigmentation variations. My research interests are a product of my broad system level experience in consumer sensing devices that helps me prioritize pragmatism while developing state-of-the-art machine learning methods for sensing applications.
 
 <div class="callout-box-jobmarket">
   <p>I am searching for full-time research roles in industry and academia.</p>
 </div>
 
-
-<!-- If you prefer an audio-visual version of my research,
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="flex: 1 1 250px; background-color:rgb(255, 255, 255); padding: 20px; border-radius: 8px;">
-        here is a 2-Minute overview (24, October 2024 : Lightning Talk at MIT, EECS Rising Stars.) and
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                    src="https://www.youtube.com/embed/OGLrQtyFE0E" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-            </iframe>
-        </div>
-    </div>
-    <div style="flex: 1 1 250px; background-color:rgb(255, 255, 255); padding: 20px; border-radius: 8px;">
-        a 5-Minute overview (8, April 2025 : Lightning Talk at Northwestern University, CoDEX.)
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                    src="https://www.youtube.com/embed/E9ADR7OQ6Vk" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-            </iframe>
-        </div>
-    </div>
-</div> -->
-
-<!-- ## Ongoing Projects
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
-        <h3>Learning from Irregular and Heterogenous Modalities</h3>
-        <p>Investigating methods to model the underlying process dynamics for irregular time-series, ranging from uniformly sampled to sparse or missing variates, to learn task-agnostic representations while modeling the inter-modality interactions.</p>
-    </div>
-    <div style="flex: 1 1 250px; background-color: #f7f7f7; padding: 20px; border-radius: 8px;">
-        <h3>Practitioner's Guide to Manufacturing Workplace Safety</h3>
-        <p>Collaborating with Boeing and MxD to create a browsable repository of COTS sensors and wearable-data analytics to enhance workplace safety by quantifying risk factors. Assessing the validity of off-the-shelf pose analytics for extracting ergonomic risk metrics (RULA/REBA scores).</p>
-    </div>
-</div> --> -->
 ## News
 <div class="scrollable-timeline">
   <ul>
@@ -90,61 +47,62 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
   </ul>
 </div>
 
-<style>
-.scrollable-timeline {
-  height: 400px;
-  overflow-y: auto;
-  border: 1px solid rgba($secondary-color, 0.3);
-  padding: 15px;
-  border-radius: 5px;
-  background-color: transparent;
-}
-
-.scrollable-timeline ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.scrollable-timeline li {
-  margin-bottom: 15px;
-  line-height: 1.6;
-}
-
-.scrollable-timeline strong {
-  color: $primary-color;
-  font-weight: 600;
-}
-
-.scrollable-timeline a {
-  color: $secondary-color;
-  text-decoration: none;
-}
-
-.scrollable-timeline a:hover {
-  color: mix(#000, $secondary-color, 15%);
-  text-decoration: underline;
-}
-</style>
-
 ## Selected Papers
 
+<div class="paper-card">
+  <div class="paper-title">MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series</div>
+  <div class="paper-venue">NeurIPS 2025 <span class="paper-spotlight">🌟 Spotlight (Top 3%)</span></div>
+  <div class="paper-authors">Payal Mohapatra, Yueyuan Sui, Akash Pandey, Stephen Xia, Qi Zhu</div>
+  <div class="paper-buttons">
+    <a href="https://arxiv.org/abs/2509.25278" class="paper-btn btn-highlight" target="_blank">arXiv</a>
+    <a href="https://github.com/payalmohapatra/MAESTRO" class="paper-btn" target="_blank">Code</a>
+    <!-- <a href="#" class="paper-btn" target="_blank">Paper</a> -->
+  </div>
+</div>
+
+<div class="paper-card">
+  <div class="paper-title">Phase-driven Generalizable Representation Learning for Nonstationary Time Series Classification</div>
+  <div class="paper-venue">TMLR 2025 & TS4H Workshop at NeurIPS 2025</div>
+  <div class="paper-authors">Payal Mohapatra, Lixu Wang, Qi Zhu</div>
+  <div class="paper-buttons">
+    <a href="https://openreview.net/forum?id=cb3nwoqLdd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)" class="paper-btn btn-highlight" target="_blank">OpenReview</a>
+    <!-- <a href="#" class="paper-btn" target="_blank">Code</a> -->
+  </div>
+</div>
+
+<div class="paper-card">
+  <div class="paper-title">Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs</div>
+  <div class="paper-venue">ACL 2025</div>
+  <div class="paper-authors">Payal Mohapatra*, Akash Pandey*, Xiaoyuan Zhang*, Qi Zhu</div>
+  <div class="paper-buttons">
+    <a href="https://aclanthology.org/2025.acl-short.56/" class="paper-btn btn-highlight" target="_blank">Paper</a>
+    <a href="https://github.com/payalmohapatra/SilentSpeechLLM" class="paper-btn" target="_blank">Code</a>
+  </div>
+</div>
+
+<div class="paper-card">
+  <div class="paper-title">Missingness-resilient Video-enhanced Multimodal Disfluency Detection</div>
+  <div class="paper-venue">InterSpeech 2024 <span class="paper-oral">🎤 Oral (Top 10%)</span></div>
+  <div class="paper-authors">Payal Mohapatra*, Shamika Likhite*, Subrata Biswas, Bashima Islam, Qi Zhu</div>
+  <div class="paper-buttons">
+    <a href="https://www.isca-archive.org/interspeech_2024/mohapatra24_interspeech.pdf" class="paper-btn btn-highlight" target="_blank">Paper</a>
+    <a href="https://github.com/payalmohapatra/Multimodal-Speech-Disfluency" class="paper-btn" target="_blank">Code</a>
+  </div>
+</div>
 
 
-## Selected Awards
 
 
 ## Services
 * Reviewer: ICASSP'25, ICLR'25, NeurIPS'24 (TSALM workshop), IMWUT'24, IROS'24, ICASSP'24
   * External Reviewer: ASP-DAC'24, EMSOFT'23, ICCPS'23, NSys'22
   * Book Reviews: Cambridge University Press early reader's reviewing
-* Organize biweekly inter-laboratory Cyber-Physical Systems study group at Northwestern.
-* Active participant in the [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern, covering topics like [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), and Non-Stationary Transformers.
+* Organize biweekly inter-laboratory Cyber-Physical Systems study group at Northwestern
+* Active participant in the [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern, covering topics like [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), and Non-Stationary Transformers
 * Mentoring:
-  * 2024: Xiaoyuan Zhang, Talia-Ben Naim (MS students, Computer Engineering, Northwestern), Brooks Hu (Undergraduate, Computer Engineering, Northwestern), Mark Zhang (MS students, Mechanical Engineering, Northwestern)
+  * 2024: Xiaoyuan Zhang, Talia Ben-Naim (MS students, Computer Engineering, Northwestern), Brooks Hu (Undergraduate, Computer Engineering, Northwestern), Mark Zhang (MS student, Mechanical Engineering, Northwestern)
   * 2023:
-    * Yueyuan Sui (MS, Northwestern University &rarr; PhD, Northwestern University), Shamika Likhite (MS, Northwestern University &rarr; SWE, SpeechAce)
-    * Kiva Joseph (Undergraduates, Computer Engineering, Northwestern)
+    * Yueyuan Sui (MS, Northwestern University → PhD, Northwestern University), Shamika Likhite (MS, Northwestern University → SWE, SpeechAce)
+    * Kiva Joseph (Undergraduate, Computer Engineering, Northwestern)
     * Jonathan Li Chen, Ben Forbes, Justin Lau (Undergraduates, Mechanical Engineering, Northwestern)
-  * 2022: Devashri Naik (MS, Northwestern University &rarr; PhD, University of Illinois at Chicago), Jinjin Cai (MS, Northwestern University &rarr; PhD, Purdue University) (MS students, Computer Engineering, Northwestern)
-
+  * 2022: Devashri Naik (MS, Northwestern University → PhD, University of Illinois at Chicago), Jinjin Cai (MS, Northwestern University → PhD, Purdue University)

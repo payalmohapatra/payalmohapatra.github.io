@@ -21,7 +21,7 @@ a.link-important,
 .link-important a {
   color: $secondary-color;
   text-decoration: none;
-  font-weight: 500;
+  // font-weight: 500;
   
   &:hover {
     color: mix(#000, $secondary-color, 15%);
@@ -105,4 +105,43 @@ a.btn,
       color: #ffffff;
     }
   }
+}
+
+
+
+/* Text highlighting without links */
+.highlight-text {
+  color: $secondary-color;  /* Terracotta */
+  font-weight: 500;
+}
+
+.highlight-accent {
+  color: $accent-warm;  /* Golden amber */
+  font-weight: 500;
+}
+
+.highlight-primary {
+  color: $primary-color;  /* Midnight blue */
+  font-weight: 600;
+}
+
+/* Background highlighting */
+.highlight-bg {
+  background-color: rgba($secondary-color, 0.1);
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.highlight-bg-warm {
+  background-color: rgba($accent-warm, 0.15);
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+/* Emphasized text with underline accent */
+.emphasize {
+  color: $text-color;
+  border-bottom: 2px solid $secondary-color;
+  padding-bottom: 1px;
+  font-weight: 500;
 }

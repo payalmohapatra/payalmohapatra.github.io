@@ -5,8 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+<ins>Mohapatra, Payal</ins>, Lixu Wang, and Qi Zhu.  
+**"Phase-driven Domain Generalizable Learning for Nonstationary Time Series."** *Transactions on Machine Learning Research (TMLR)*, 2025. | *Time Series for Health (TS4H) Workshop @ NeurIPS 2025*.  
+[[Paper](https://arxiv.org/abs/2402.05960)]
+
+
+<ins>Mohapatra, Payal</ins>, Yueyuan Sui, Akash Pandey, Stephen Xia, and Qi Zhu.  
+**"MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series."** *NeurIPS 2025*. **(Spotlight, top 3.1%)**  
+[[Paper](https://arxiv.org/abs/2509.25278)][[Code](https://github.com/payalmohapatra/MAESTRO)]
+
 <ins>Mohapatra, Payal</ins>\*, Akash Pandey\*, Xiaoyuan Zhang\*, and Qi Zhu.  
-**"Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs."** *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL): Main Conference*, 2025. [[Paper](https://arxiv.org/abs/2506.00304)][[Code](https://github.com/payalmohapatra/SilentSpeechLLM)][Talk]
+**"Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs."** *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL): Main Conference*, 2025. [[Paper](https://arxiv.org/abs/2506.00304)][[Code](https://github.com/payalmohapatra/SilentSpeechLLM)][Talk](https://youtu.be/khqcMaJVndc)
 
 Wang, Lixu, Bingqi Shang, Yi Li, <ins>Payal Mohapatra</ins>, Wei Dong, Xiao Wang, and Qi Zhu.  
 **"Split Adaptation for Pre-trained Vision Transformers."** *CVPR 2025*. [[Paper](https://arxiv.org/abs/2503.00441)]
@@ -22,10 +31,6 @@ Wang, Lixu, Bingqi Shang, Yi Li, <ins>Payal Mohapatra</ins>, Wei Dong, Xiao Wang
 <ins>Mohapatra, Payal</ins>\*, Shamika Likhite\*, Subrata Biswas, Bashima Islam, and Qi Zhu.  
 **"Missingness-Resilient Video-Enhanced Multimodal Disfluency Detection."** *Interspeech 2024*, 5093–5097.  
 [[Paper](https://doi.org/10.21437/Interspeech.2024-1458)] | [[Code](https://github.com/payalmohapatra/Multimodal-Speech-Disfluency)] | [[Data](https://figshare.com/articles/dataset/Multimodal_dataset_zip/27216024)]
-
-<ins>Mohapatra, Payal</ins>, Lixu Wang, and Qi Zhu.  
-**"Phase-driven Domain Generalizable Learning for Nonstationary Time Series."** (2024).  
-[[Pre-print](https://arxiv.org/abs/2402.05960)]
 
 <ins>Mohapatra, Payal</ins>\*, Akash Pandey\*, Yueyuan Sui\*, and Qi Zhu.  
 **"Effect of Attention and Self-Supervised Speech Embeddings on Non-Semantic Speech Tasks."**  

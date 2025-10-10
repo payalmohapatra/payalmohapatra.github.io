@@ -19,9 +19,12 @@ Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/nam
 
 From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worked on the consumer electronics team and supported the tape-out of two chips. I earned my Master's in Electrical Engineering from IIT Madras, India, where I designed an end-to-end cardiac wrist-wearable (sensor and on-device algorithms) robust to skin pigmentation variations. My research interests are a product of my broad system level experience in consumer sensing devices that helps me prioritize pragmatism while developing state-of-the-art machine learning methods for sensing applications.
 
-<!-- <div class="callout-box-jobmarket">
-  <p>I am searching for full-time research roles in industry and academia.</p>
-</div> -->
+
+<div class="callout-box-jobmarket">
+  <p>I am seeking full-time research positions in industry and academia for Spring/Summer 2026. Please 
+  <a href="/files/Payal_CV.pdf" target="_blank" class="btn-cv">review my CV</a> or <a href="mailto:payalmohapatra2026@u.northwestern.edu">contact me</a> to discuss opportunities.</p>
+</div>
+
 
 ## News
 <div class="scrollable-timeline">
@@ -138,13 +141,18 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 * <span class="highlight-midnight">Winner</span>, Make-in-India Anveshan Design Challenge, Analog Devices Inc. (2017)
 
 ## Services
-* Reviewer: ICASSP'25, ICLR'25, NeurIPS'24 (TSALM workshop), IMWUT'24, IROS'24, ICASSP'24
+* Program Committee : 3rd ACM International Workshop on Intelligent Acoustic Systems and Applications (IASA 2025) 
+* Reviewer: 
+  * Journals : IEEE Internet of Things'25, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems'25, IEEE Transactions on Automation Science and Engineering'25
+  * Conferences : ASP-DAC'26, ICASSP'25, ICLR'25, IMWUT'24, IROS'24, ICASSP'24
+  * Workshops : TS4H'25 (Neurips), IEEE MLSP 2025, TSALM'24 (Neurips)
   * External Reviewer: ASP-DAC'24, EMSOFT'23, ICCPS'23, NSys'22
   * Book Reviews: Cambridge University Press early reader's reviewing
 * Organize biweekly inter-laboratory Cyber-Physical Systems study group at Northwestern
 * Active participant in the [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern, covering topics like [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), and Non-Stationary Transformers
 * Mentoring:
-  * 2024: Xiaoyuan Zhang, Talia Ben-Naim (MS students, Computer Engineering, Northwestern), Brooks Hu (Undergraduate, Computer Engineering, Northwestern), Mark Zhang (MS student, Mechanical Engineering, Northwestern)
+  * 2025: Xiaoyuan Zhang, Haodong Yang (MS students, Computer Engineering, Northwestern)
+  * 2024: Talia Ben-Naim (MS students, Computer Engineering, Northwestern), Brooks Hu (Undergraduate, Computer Engineering, Northwestern), Mark Zhang (MS student, Mechanical Engineering, Northwestern)
   * 2023:
     * Yueyuan Sui (MS, Northwestern University → PhD, Northwestern University), Shamika Likhite (MS, Northwestern University → SWE, SpeechAce)
     * Kiva Joseph (Undergraduate, Computer Engineering, Northwestern)

@@ -113,6 +113,75 @@ My team was awarded the *Anveshan 2016 Design Fellowship* by Analog Devices. Lea
 Coverage of the *Best Paper Award* at the IEEE Women's Technical Conference (WINTECHCON) held in Bangalore, India. Read about the award recognition here: **[Award Recognition by ADI](https://www.facebook.com/AnalogDevicesInc/posts/congratulations-to-payal-mohapatra-kneeling-left-on-her-award-for-best-paper-at-/2080443635312168/)**.
 
 
+<!-- 
+## Services
+* Program Committee : 3rd ACM International Workshop on Intelligent Acoustic Systems and Applications (IASA 2025) 
+* Reviewer: 
+  * Journals : IEEE Internet of Things'25, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems'25, IEEE Transactions on Automation Science and Engineering'25
+  * Conferences : ICLR'26, ASP-DAC'26, ICASSP'25, ICLR'25, IMWUT'24, IROS'24, ICASSP'24
+  * Workshops : TS4H'25 (Neurips), IEEE MLSP 2025, TSALM'24 (Neurips)
+  * External Reviewer: ASP-DAC'24, EMSOFT'23, ICCPS'23, NSys'22
+  * Book Reviews: Cambridge University Press early reader's reviewing
+* Organize biweekly inter-laboratory Cyber-Physical Systems study group at Northwestern
+* Active participant in the [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern, covering topics like [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), and Non-Stationary Transformers
+* Mentoring:
+  * 2025: Xiaoyuan Zhang, Haodong Yang (MS students, Computer Engineering, Northwestern)
+  * 2024: Talia Ben-Naim (MS students, Computer Engineering, Northwestern), Brooks Hu (Undergraduate, Computer Engineering, Northwestern), Mark Zhang (MS student, Mechanical Engineering, Northwestern)
+  * 2023:
+    * Yueyuan Sui (MS, Northwestern University → PhD, Northwestern University), Shamika Likhite (MS, Northwestern University → SWE, SpeechAce)
+    * Kiva Joseph (Undergraduate, Computer Engineering, Northwestern)
+    * Jonathan Li Chen, Ben Forbes, Justin Lau (Undergraduates, Mechanical Engineering, Northwestern)
+  * 2022: Devashri Naik (MS, Northwestern University → PhD, University of Illinois at Chicago), Jinjin Cai (MS, Northwestern University → PhD, Purdue University) -->
+
+## Service
+
+### Conference & Workshop Organization
+* **Program Committee**, 3rd ACM International Workshop on Intelligent Acoustic Systems and Applications (IASA 2025)
+
+### Peer Review Activities
+
+**Journals**
+* IEEE Internet of Things (2025)
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2025)
+* IEEE Transactions on Automation Science and Engineering (2025)
+
+**Conferences**
+* ICLR (2025, 2026), ICASSP (2024, 2025), ASP-DAC (2026), IMWUT (2024), IROS (2024)
+
+**Workshops**
+* TS4H @ NeurIPS (2025), IEEE MLSP (2025), TSALM @ NeurIPS (2024)
+
+**External Reviewer**
+* ASP-DAC (2024), EMSOFT (2023), ICCPS (2023), NSys (2022)
+
+**Book Reviews**
+* Cambridge University Press (Early Reader Reviewer)
+
+### Academic Engagement
+* **Active Participant**, [ML Reading Group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern  
+  *Topics presented: [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [Multimodal Learning](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), Non-Stationary Transformers*
+<!-- * **Organizer**, Biweekly inter-laboratory Cyber-Physical Systems study group at Northwestern University -->
+
+### Mentorship
+
+**2025**
+* Xiaoyuan Zhang (MS, Computer Engineering, Northwestern)
+* Haodong Yang (MS, Computer Engineering, Northwestern)
+
+**2024**
+* Talia Ben-Naim (MS, Computer Engineering, Northwestern → Embedded Software Engineer, Medtronic, Boston)
+* Brooks Hu (Undergraduate, Computer Engineering, Northwestern)
+* Mark Zhang (MS, Mechanical Engineering, Northwestern)
+
+**2023**
+* Yueyuan Sui (MS → PhD, Northwestern University)
+* Shamika Likhite (MS, Northwestern University → Software Engineer, SpeechAce)
+* Kiva Joseph (Undergraduate, Computer Engineering, Northwestern)
+* Jonathan Li Chen, Ben Forbes, Justin Lau (Undergraduates, Mechanical Engineering, Northwestern)
+
+**2022**
+* Devashri Naik (MS, Northwestern University → PhD, University of Illinois at Chicago)
+* Jinjin Cai (MS, Northwestern University → PhD, Purdue University)
 
 
 ### Note:

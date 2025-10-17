@@ -29,13 +29,13 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 ## News
 <div class="scrollable-timeline">
   <ul>
+    <li><strong>Oct 2025</strong> – Received <em>Terminal Year Fellowship</em> at Northwestern University</li>
     <li><strong>Oct 2025</strong> – Invited talk at the <em>Real-time Communications Conference and Expo</em> at Illinois Institute of Technology</li>
     <li><strong>Sept 2025</strong> – Our paper <em>Phase-driven Generalizable Representation Learning for Nonstationary Time Series Classification</em> accepted at TMLR 2025 and TS4H Workshop at NeurIPS 2025</li>
     <li><strong>Sept 2025 🌟</strong> – Our paper <em>MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series</em> accepted at NeurIPS 2025 as a spotlight (top 3%)</li>
     <li><strong>June 2025</strong> – Interning with Mitsubishi Electric Labs (MERL), Boston, MA as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕)</li>
     <li><strong>May 2025</strong> – Our paper <em>Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs</em> accepted at ACL Main Conference</li>
-    <li><strong>April 2025</strong> – Selected as one of six speakers to present a <em>Lightning Talk</em> at <a href="https://codex.northwestern.edu/program/lightning-talks/" target="_blank">CoDEX symposium</a>, Northwestern University</li>
-    <li><strong>Jan 2025</strong> – Submitted our paper on head-orientation based acoustic zones' localization to IMWUT</li>
+    <li><strong>April 2025</strong> – Speaker at <a href="https://codex.northwestern.edu/program/lightning-talks/" target="_blank">CoDEX symposium</a>, Northwestern University</li>
     <li><strong>Dec 2024 🏃‍♀️</strong> – Successfully passed my PhD Prospectus examination</li>
     <li><strong>Oct 2024 📰</strong> – Our paper <em>Wearable Network for Multi-Level Physical Fatigue Prediction in Manufacturing Workers</em> accepted in PNAS Nexus. Featured by <a href="https://www.mccormick.northwestern.edu/news/articles/2024/10/improving-the-occupational-health-of-manufacturing-workers/" target="_blank">Northwestern Engineering</a>, <a href="https://www.popsci.com/technology/worker-fatigue-sensors/" target="_blank">PopSci</a>, and other outlets</li>
     <li><strong>Aug 2024 🏆</strong> – Selected as EECS Rising Star 2024. Invited to MIT workshop (<a href="https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/phd-student-payal-mohapatra-selected-for-eecs-rising-stars-workshop.html" target="_blank">article</a>)</li>
@@ -133,28 +133,28 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 
 ## Selected Recognition
+* <span class="highlight-midnight">Terminal Year Fellowship,</span> Northwestern University (2025)
+* <span class="highlight-midnight">Invited Speaker,</span> Real-Time Communication Conference (2025)
+* <span class="highlight-midnight">Speaker,</span> CoDEX Symposium, Northwestern University (2024)  
+  [Featured Article](#https://codex.northwestern.edu/program/lightning-talks/) | [Talk Video](#https://youtu.be/E9ADR7OQ6Vk)
+* <span class="highlight-midnight">EECS Rising Star,</span> MIT Workshop (2024)  
+  [Featured Article](#https://risingstars-eecs.mit.edu/participants/payal-mohapatra/) | [Talk Video](#https://youtube.com/shorts/OGLrQtyFE0E?feature=share) 
+* <span class="highlight-midnight">Top Performer,</span> Computational Paralinguistics Challenge (ComParE), ACM Multimedia (2023)
+* <span class="highlight-midnight">Top Performer,</span> ICASSP Signal Processing Grand Challenge (2023)
+* <span class="highlight-midnight">Third Place,</span> e-Prevention Challenge, ICASSP (2023)
+* <span class="highlight-midnight">Best Research Video,</span> Design Automation Conference Young Fellowship (2021)
+* <span class="highlight-midnight">Winner,</span> Make-in-India Anveshan Design Challenge, Analog Devices Inc. (2018)
 
-* <span class="highlight-midnight">EECS Rising Star,</span> MIT Workshop (2024)
-* <span class="highlight-midnight">Top Performer</span>, Computational Paralinguistics Challenge (ComParE), ACM Multimedia 2023
-* <span class="highlight-midnight">Third Place</span>, e-Prevention Challenge, ICASSP 2023
-* <span class="highlight-midnight">Best Research Video</span>, Design Automation Conference Young Fellowship, (2021)
-* <span class="highlight-midnight">Winner</span>, Make-in-India Anveshan Design Challenge, Analog Devices Inc. (2017)
 
-## Services
-* Program Committee : 3rd ACM International Workshop on Intelligent Acoustic Systems and Applications (IASA 2025) 
-* Reviewer: 
-  * Journals : IEEE Internet of Things'25, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems'25, IEEE Transactions on Automation Science and Engineering'25
-  * Conferences : ASP-DAC'26, ICASSP'25, ICLR'25, IMWUT'24, IROS'24, ICASSP'24
-  * Workshops : TS4H'25 (Neurips), IEEE MLSP 2025, TSALM'24 (Neurips)
-  * External Reviewer: ASP-DAC'24, EMSOFT'23, ICCPS'23, NSys'22
-  * Book Reviews: Cambridge University Press early reader's reviewing
-* Organize biweekly inter-laboratory Cyber-Physical Systems study group at Northwestern
-* Active participant in the [ML reading group](https://www.nico.northwestern.edu/news-events/nico-reading-group.html) at Northwestern, covering topics like [XGBoost](https://www.notion.so/payal-mohapatra/XGBoost-resource-110bb847f97b4ce29767a36d66c8f6a9?pvs=4), [MultiModal Learning](https://www.notion.so/payal-mohapatra/ImageBind-Multimodal-Learning-f4257db6aa9a4cef81395069da1daad7?pvs=4), and Non-Stationary Transformers
-* Mentoring:
-  * 2025: Xiaoyuan Zhang, Haodong Yang (MS students, Computer Engineering, Northwestern)
-  * 2024: Talia Ben-Naim (MS students, Computer Engineering, Northwestern), Brooks Hu (Undergraduate, Computer Engineering, Northwestern), Mark Zhang (MS student, Mechanical Engineering, Northwestern)
-  * 2023:
-    * Yueyuan Sui (MS, Northwestern University → PhD, Northwestern University), Shamika Likhite (MS, Northwestern University → SWE, SpeechAce)
-    * Kiva Joseph (Undergraduate, Computer Engineering, Northwestern)
-    * Jonathan Li Chen, Ben Forbes, Justin Lau (Undergraduates, Mechanical Engineering, Northwestern)
-  * 2022: Devashri Naik (MS, Northwestern University → PhD, University of Illinois at Chicago), Jinjin Cai (MS, Northwestern University → PhD, Purdue University)
+## Selected Media Highlights
+
+**🎯 Wearable Sensors for Worker Fatigue Tracking**  
+*PNAS Nexus, October 2024*
+
+Our research on predicting physical fatigue in manufacturing workers gained media attention:
+
+> Featured in: [MSN](https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR) | [TechXplore](https://techxplore.com/news/2024-10-wearable-sensors-track-fatigue-factory.html) | [Popular Science](https://www.popsci.com/technology/worker-fatigue-sensors/) | [News-Medical](https://www.news-medical.net/news/20241015/Innovative-system-tracks-physical-fatigue-among-workers-in-manufacturing-settings.aspx) | [Yahoo Tech](https://tech.yahoo.com/wearables/articles/wearable-sensors-monitor-factory-worker-185312026.html) | [Northwestern Engineering](https://www.mccormick.northwestern.edu/news/articles/2024/10/improving-the-occupational-health-of-manufacturing-workers/)
+
+
+
+

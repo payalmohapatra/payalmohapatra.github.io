@@ -105,7 +105,7 @@ My research profile was features in the --
 ---
 
 #### Anveshan Design Fellowship – 2016  
-My team was awarded the *Anveshan 2016 Design Fellowship* by Analog Devices. Learn more about the winning teams through this link:**[Anveshan 2016 Winning Teams](https://www.analog.com/en/education/university-engagement/india/anveshan-2016-fellowship-winning-teams.html)**, **[India Today](https://www.indiatoday.in/education-today/news/story/anveshan-2016-983950-2017-06-21)**, etc.
+My team was awarded the *Anveshan 2016 Design Fellowship* by Analog Devices. Learn more about the winning teams through this link:**[Anveshan 2016 Winning Teams](https://www.vidyavision.com/news/anveshan-2016-17-winners-awarded-by-analog-devices-inc)**, **[India Today](https://www.indiatoday.in/education-today/news/story/anveshan-2016-983950-2017-06-21)**, etc.
 
 ---
 

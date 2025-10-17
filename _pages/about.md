@@ -131,26 +131,92 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
   </div>
 </div>
 
-
 ## Selected Recognition
+
 * <span class="highlight-midnight">Terminal Year Fellowship,</span> Northwestern University (2025)
+
 * <span class="highlight-midnight">Invited Speaker,</span> Real-Time Communication Conference (2025)
+
 * <span class="highlight-midnight">Speaker,</span> CoDEX Symposium, Northwestern University (2024)  
-  [Featured Article](https://codex.northwestern.edu/program/lightning-talks/) | [Talk Video](https://youtu.be/E9ADR7OQ6Vk)
+  <a href="https://codex.northwestern.edu/program/lightning-talks/" class="recognition-btn btn-article" target="_blank">📰 Featured Article</a>
+  <a href="https://youtu.be/E9ADR7OQ6Vk" class="recognition-btn btn-video" target="_blank">🎥 Talk Video</a>
+
 * <span class="highlight-midnight">EECS Rising Star,</span> MIT Workshop (2024)  
-  [Featured Article](https://risingstars-eecs.mit.edu/participants/payal-mohapatra/) | [Talk Video](https://youtube.com/shorts/OGLrQtyFE0E?feature=share) 
+  <a href="https://risingstars-eecs.mit.edu/participants/payal-mohapatra/" class="recognition-btn btn-article" target="_blank">📰 MIT Profile</a>
+  <a href="https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2024/phd-student-payal-mohapatra-selected-for-eecs-rising-stars-workshop.html" class="recognition-btn btn-article" target="_blank">📰 Northwestern News</a>
+  <a href="https://youtube.com/shorts/OGLrQtyFE0E?feature=share" class="recognition-btn btn-video" target="_blank">🎥 Talk Video</a>
+
+* <span class="highlight-midnight">Worker Fatigue Research</span> published in [PNAS Nexus]((https://doi.org/10.1093/pnasnexus/pgae421)) was highlighted in several media outlets (2024)  
+  <a href="https://www.popsci.com/technology/worker-fatigue-sensors/" class="recognition-btn btn-media" target="_blank">Popular Science</a>
+  <a href="https://techxplore.com/news/2024-10-wearable-sensors-track-fatigue-factory.html" class="recognition-btn btn-media" target="_blank">TechXplore</a>
+  <a href="https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR" class="recognition-btn btn-media" target="_blank">MSN</a>
+  <a href="https://www.news-medical.net/news/20241015/Innovative-system-tracks-physical-fatigue-among-workers-in-manufacturing-settings.aspx" class="recognition-btn btn-media" target="_blank">News-Medical</a>
+  <a href="https://tech.yahoo.com/wearables/articles/wearable-sensors-monitor-factory-worker-185312026.html" class="recognition-btn btn-media" target="_blank">Yahoo Tech</a>
+  <a href="https://www.mccormick.northwestern.edu/news/articles/2024/10/improving-the-occupational-health-of-manufacturing-workers/" class="recognition-btn btn-media" target="_blank">Northwestern</a>
+
 * <span class="highlight-midnight">Top Performer,</span> Computational Paralinguistics Challenge (ComParE), ACM Multimedia (2023)
+
 * <span class="highlight-midnight">Top Performer,</span> ICASSP Signal Processing Grand Challenge (2023)
+
 * <span class="highlight-midnight">Third Place,</span> e-Prevention Challenge, ICASSP (2023)
+
 * <span class="highlight-midnight">Best Research Video,</span> Design Automation Conference Young Fellowship (2021)
-* <span class="highlight-midnight">Winner,</span> Make-in-India Anveshan Design Challenge, Analog Devices Inc. (2018)
 
+* <span class="highlight-midnight">Winner,</span> Make-in-India Anveshan Design Challenge, Analog Devices Inc. (2018)  
+  <a href="https://www.vidyavision.com/news/anveshan-2016-17-winners-awarded-by-analog-devices-inc" target="_blank">📰 ADI Fellowship</a>
+  <a href="https://www.indiatoday.in/education-today/news/story/anveshan-2016-983950-2017-06-21" class="recognition-btn btn-media" target="_blank">India Today</a>
 
-## Selected Media Highlights
+<style>
+.recognition-btn {
+  display: inline-block;
+  padding: 6px 14px;
+  margin: 4px 4px 4px 0;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9em;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: 1px solid;
+}
 
-**🎯 Wearable Sensors for Worker Fatigue Tracking**  
-*PNAS Nexus, October 2024*
+.btn-article {
+  background-color: #f0f7ff;
+  color: #1a2332;
+  border-color: #5a6b7d;
+}
 
-Our research on predicting physical fatigue in manufacturing workers gained media attention:
+.btn-article:hover {
+  background-color: #1a2332;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(26, 35, 50, 0.2);
+}
 
-> Featured in: [MSN](https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR) | [TechXplore](https://techxplore.com/news/2024-10-wearable-sensors-track-fatigue-factory.html) | [Popular Science](https://www.popsci.com/technology/worker-fatigue-sensors/) | [News-Medical](https://www.news-medical.net/news/20241015/Innovative-system-tracks-physical-fatigue-among-workers-in-manufacturing-settings.aspx) | [Yahoo Tech](https://tech.yahoo.com/wearables/articles/wearable-sensors-monitor-factory-worker-185312026.html) | [Northwestern Engineering](https://www.mccormick.northwestern.edu/news/articles/2024/10/improving-the-occupational-health-of-manufacturing-workers/)
+.btn-video {
+  background-color: #fff5f5;
+  color: #c1704f;
+  border-color: #c1704f;
+}
+
+.btn-video:hover {
+  background-color: #c1704f;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(193, 112, 79, 0.2);
+}
+
+.btn-media {
+  background-color: #fafafa;
+  color: #5a6b7d;
+  border-color: #d4d4d4;
+  font-size: 0.85em;
+  padding: 5px 12px;
+}
+
+.btn-media:hover {
+  background-color: #5a6b7d;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 3px 6px rgba(90, 107, 125, 0.2);
+}
+</style>

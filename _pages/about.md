@@ -25,6 +25,173 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
   <a href="/files/Payal_CV.pdf" target="_blank" class="btn-cv">review my CV</a> or <a href="mailto:payalmohapatra2026@u.northwestern.edu">contact me</a> to discuss opportunities.</p>
 </div>
 
+<div class="experience-skills-section">
+  <h2>Experience & Skills</h2>
+  
+  <div class="flip-card-container">
+    <div class="flip-card" id="flipCard">
+      <!-- Front of card - Experience Image -->
+      <div class="flip-card-front">
+        <img src="/files/test_system.png" 
+             alt="Professional Experience" 
+             class="card-image">
+      </div>
+
+      <!-- Back of card - Skills Image -->
+      <div class="flip-card-back">
+        <img src="/files/test_system.png" 
+             alt="Technical Skills" 
+             class="card-image">
+      </div>
+    </div>
+
+    <!-- Hover overlay with click button -->
+    <div class="hover-overlay">
+      <div class="hover-text">View My Skills</div>
+      <button class="click-button" onclick="flipCard()">Click to Flip</button>
+    </div>
+  </div>
+</div>
+
+<style>
+/* Flippable Card Styles */
+.experience-skills-section {
+  margin: 40px 0;
+}
+
+.experience-skills-section h2 {
+  color: #1a2332;
+  font-size: 28px;
+  margin-bottom: 25px;
+  font-weight: 600;
+}
+
+.flip-card-container {
+  perspective: 1000px;
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.flip-card {
+  position: relative;
+  width: 100%;
+  height: 450px;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-card.flipped {
+  transform: rotateY(180deg);
+}
+
+.hover-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(26, 35, 50, 0.85);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  z-index: 10;
+  border-radius: 15px;
+}
+
+.flip-card-container:hover .hover-overlay {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.hover-text {
+  color: white;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.click-button {
+  background-color: #c1704f;
+  color: white;
+  padding: 15px 35px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(193, 112, 79, 0.3);
+}
+
+.click-button:hover {
+  background-color: #d4805f;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(193, 112, 79, 0.4);
+}
+
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 15px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+}
+
+.flip-card-front {
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flip-card-back {
+  background: white;
+  transform: rotateY(180deg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .flip-card {
+    height: 350px;
+  }
+
+  .hover-text {
+    font-size: 20px;
+  }
+
+  .click-button {
+    padding: 12px 28px;
+    font-size: 14px;
+  }
+}
+</style>
+
+<script>
+function flipCard() {
+  const card = document.getElementById('flipCard');
+  card.classList.toggle('flipped');
+}
+</script>
+
 
 ## News
 <div class="scrollable-timeline">

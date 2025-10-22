@@ -25,6 +25,10 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
   <a href="/files/Payal_CV.pdf" target="_blank" class="btn-cv">review my CV</a> or <a href="mailto:payalmohapatra2026@u.northwestern.edu">contact me</a> to discuss opportunities.</p>
 </div>
 
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/files/overview.png" alt="Research Overview" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
+
 ## News
 <div class="scrollable-timeline">
   <ul>

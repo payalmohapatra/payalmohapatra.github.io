@@ -16,20 +16,27 @@ Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/nam
 
 <span class="highlight-midnight">3. Human-Centric Applications</span>: I develop ML methods for: a) <span class="highlight-midnight">*Subjective Labels*</span>: I designed custom optimization objectives to monitor physical fatigue in manufacturing workers at <span class="highlight-accent">Boeing</span> and <span class="highlight-accent">John Deere</span> ([PNAS Nexus'24](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:ufrVoPGSRksC){: .link-highlight}) and multi-label objectives to model auditory attention with <span class="highlight-accent">Meta Reality Labs</span>. b) <span class="highlight-midnight">*Data Constraints*</span>: I designed data distillation and self-supervised frameworks for disfluency detection ([ICASSP'23](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&citation_for_view=7ukGcz0AAAAJ:zYLM7Y9cAGgC){: .link-highlight}) and achieved state-of-the-art silent speech understanding from surface EMG without paired audio using LLMs ([ACL'25](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=7ukGcz0AAAAJ&sortby=pubdate&citation_for_view=7ukGcz0AAAAJ:Se3iqnhoufwC){: .link-highlight}).
 
-
 From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worked on the consumer electronics team and supported the tape-out of two chips. I earned my Master's in Electrical Engineering from IIT Madras, India, where I designed an end-to-end cardiac wrist-wearable (sensor and on-device algorithms) robust to skin pigmentation variations. My research interests are a product of my broad system-level experience in consumer sensing devices, which helps me prioritize pragmatism while developing state-of-the-art machine learning methods for sensing applications.
 
+<div style="display: flex; gap: 30px; align-items: flex-start; margin: 30px 0; flex-wrap: wrap;">
+  
+  <!-- Left: Research Overview Image -->
+  <div style="flex: 0 0 auto; min-width: 300px;">
+    <img src="/files/research_overview.png" alt="Research Overview" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  </div>
 
-<div class="callout-box-jobmarket">
-  <p>I am seeking full-time research positions in industry and academia for Spring/Summer 2026. Please 
-  <a href="/files/Payal_CV.pdf" target="_blank" class="btn-cv">review my CV</a> or <a href="mailto:payalmohapatra2026@u.northwestern.edu">contact me</a> to discuss opportunities.</p>
-</div>
+  <!-- Right: Job Callout Box -->
+  <div class="callout-box-jobmarket" style="flex: 1; min-width: 300px; padding: 25px; background-color: #f5f5f5; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <p style="margin: 0; font-size: 16px; line-height: 1.6;">
+      I am seeking full-time research positions in industry and academia for Spring/Summer 2026. Please 
+      <a href="/files/Payal_CV.pdf" target="_blank" class="btn-cv" style="color: #0066cc; text-decoration: none; font-weight: 600;">review my CV</a> or <a href="mailto:payalmohapatra2026@u.northwestern.edu" style="color: #0066cc; text-decoration: none; font-weight: 600;">contact me</a> to discuss opportunities.
+    </p>
+  </div>
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="/files/overview.png" alt="Research Overview" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 ## News
+
 <div class="scrollable-timeline">
   <ul>
     <li><strong>Oct 2025</strong> – Received <em>Terminal Year Fellowship</em> at Northwestern University</li>
@@ -90,7 +97,6 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 }
 </style>
 
-
 ## Selected Papers
 
 <div class="paper-card">
@@ -100,7 +106,6 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
   <div class="paper-buttons">
     <a href="https://arxiv.org/abs/2509.25278" class="paper-btn btn-highlight" target="_blank">arXiv</a>
     <a href="https://github.com/payalmohapatra/MAESTRO" class="paper-btn" target="_blank">Code</a>
-    <!-- <a href="#" class="paper-btn" target="_blank">Paper</a> -->
   </div>
 </div>
 
@@ -110,7 +115,6 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
   <div class="paper-authors">Payal Mohapatra, Lixu Wang, Qi Zhu</div>
   <div class="paper-buttons">
     <a href="https://openreview.net/forum?id=cb3nwoqLdd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)" class="paper-btn btn-highlight" target="_blank">OpenReview</a>
-    <!-- <a href="#" class="paper-btn" target="_blank">Code</a> -->
   </div>
 </div>
 
@@ -126,7 +130,7 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 <div class="paper-card">
   <div class="paper-title">Missingness-resilient Video-enhanced Multimodal Disfluency Detection</div>
-  <div class="paper-venue">InterSpeech 2024 <span class="paper-oral">🎤 Oral </span></div>
+  <div class="paper-venue">InterSpeech 2024 <span class="paper-oral">🎤 Oral</span></div>
   <div class="paper-authors">Payal Mohapatra*, Shamika Likhite*, Subrata Biswas, Bashima Islam, Qi Zhu</div>
   <div class="paper-buttons">
     <a href="https://www.isca-archive.org/interspeech_2024/mohapatra24_interspeech.pdf" class="paper-btn btn-highlight" target="_blank">Paper</a>
@@ -138,18 +142,20 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 * <span class="highlight-midnight">Terminal Year Fellowship,</span> Northwestern University (2025)
 
-* <span class="highlight-midnight">Invited Speaker,</span> Real-Time Communication Conference (2025)
+* <span class="highlight-midnight">Invited Speaker,</span> IEEE Real-Time Communication Conference, Illinois Institute of Technology (2025)
+  <a href="https://www.rtc-conference.com/2025/presentation/?hid=394" class="recognition-btn btn-article" target="_blank">📰 RTC Profile</a>
+  <a href="https://www.youtube.com/watch?v=Ynjroddc8Kw&list=PLpKNVpFmUKiNO71_dRp1h43h2GFCJPQ9S" class="recognition-btn btn-video" target="_blank">🎥 Talk Video</a>
 
-* <span class="highlight-midnight">Speaker,</span> CoDEX Symposium, Northwestern University (2024)  
+* <span class="highlight-midnight">Speaker,</span> CoDEX Symposium, Northwestern University (2024)
   <a href="https://codex.northwestern.edu/program/lightning-talks/" class="recognition-btn btn-article" target="_blank">📰 Featured Article</a>
   <a href="https://youtu.be/E9ADR7OQ6Vk" class="recognition-btn btn-video" target="_blank">🎥 Talk Video</a>
 
-* <span class="highlight-midnight">EECS Rising Star,</span> MIT Workshop (2024)  
+* <span class="highlight-midnight">EECS Rising Star,</span> MIT Workshop (2024)
   <a href="https://risingstars-eecs.mit.edu/participants/payal-mohapatra/" class="recognition-btn btn-article" target="_blank">📰 MIT Profile</a>
   <a href="https://www.mccormick.northwestern.edu/electrical-computer/news-events/news/articles/2024/phd-student-payal-mohapatra-selected-for-eecs-rising-stars-workshop.html" class="recognition-btn btn-article" target="_blank">📰 Northwestern News</a>
   <a href="https://youtube.com/shorts/OGLrQtyFE0E?feature=share" class="recognition-btn btn-video" target="_blank">🎥 Talk Video</a>
 
-* <span class="highlight-midnight">Worker Fatigue Research</span> published in [PNAS Nexus]((https://doi.org/10.1093/pnasnexus/pgae421)) was highlighted in several media outlets (2024)  
+* <span class="highlight-midnight">Worker Fatigue Research</span> published in [PNAS Nexus](https://doi.org/10.1093/pnasnexus/pgae421) was highlighted in several media outlets (2024)
   <a href="https://www.popsci.com/technology/worker-fatigue-sensors/" class="recognition-btn btn-media" target="_blank">Popular Science</a>
   <a href="https://techxplore.com/news/2024-10-wearable-sensors-track-fatigue-factory.html" class="recognition-btn btn-media" target="_blank">TechXplore</a>
   <a href="https://www.msn.com/en-us/health/other/wearable-sensors-can-continuously-track-fatigue-in-factory-workers/ar-AA1siMTR" class="recognition-btn btn-media" target="_blank">MSN</a>
@@ -165,8 +171,8 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 * <span class="highlight-midnight">Best Research Video,</span> Design Automation Conference Young Fellowship (2021)
 
-* <span class="highlight-midnight">Winner,</span> Make-in-India Anveshan Design Challenge, Analog Devices Inc. (2018)  
-  <a href="https://www.vidyavision.com/news/anveshan-2016-17-winners-awarded-by-analog-devices-inc" target="_blank">📰 ADI Fellowship</a>
+* <span class="highlight-midnight">Winner,</span> Make-in-India Anveshan Design Challenge, Analog Devices Inc. (2018)
+  <a href="https://www.vidyavision.com/news/anveshan-2016-17-winners-awarded-by-analog-devices-inc" class="recognition-btn btn-media" target="_blank">📰 ADI Fellowship</a>
   <a href="https://www.indiatoday.in/education-today/news/story/anveshan-2016-983950-2017-06-21" class="recognition-btn btn-media" target="_blank">India Today</a>
 
 <style>

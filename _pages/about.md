@@ -18,21 +18,9 @@ Hello! I am Payal (<a href="javascript:void(0);" onclick="window.open('files/nam
 
 From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worked on the consumer electronics team and supported the tape-out of two chips. I earned my Master's in Electrical Engineering from IIT Madras, India, where I designed an end-to-end cardiac wrist-wearable (sensor and on-device algorithms) robust to skin pigmentation variations. My research interests are a product of my broad system-level experience in consumer sensing devices, which helps me prioritize pragmatism while developing state-of-the-art machine learning methods for sensing applications.
 
-<div style="display: flex; gap: 20px; align-items: center; margin: 25px 0; flex-wrap: nowrap;">
-  
-  <!-- Left: Research Overview Image (Smaller) -->
-  <div style="flex: 0 0 200px;">
-    <img src="/files/research_overview.png" alt="Research Overview" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  </div>
-
-  <!-- Right: Job Callout Box (Compact) -->
-  <div style="flex: 1; min-width: 250px; padding: 18px 20px; background-color: #f5f5f5; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-left: 4px solid #6b4c9a;">
-    <p style="margin: 0; font-size: 14px; line-height: 1.5; color: #333;">
-      I am seeking full-time research positions in industry and academia for Spring/Summer 2026. Please 
-      <a href="/files/Payal_CV.pdf" target="_blank" style="color: #0066cc; text-decoration: none; font-weight: 600; transition: color 0.2s;">review my CV</a> or <a href="mailto:payalmohapatra2026@u.northwestern.edu" style="color: #0066cc; text-decoration: none; font-weight: 600; transition: color 0.2s;">contact me</a> to discuss opportunities.
-    </p>
-  </div>
-
+<div class="callout-box-jobmarket">
+  <p>I am seeking full-time research positions in industry and academia for Spring/Summer 2026. Please 
+  <a href="/files/Payal_CV.pdf" target="_blank" class="btn-cv">review my CV</a> or <a href="mailto:payalmohapatra2026@u.northwestern.edu">contact me</a> to discuss opportunities.</p>
 </div>
 
 ## News

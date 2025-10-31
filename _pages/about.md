@@ -133,6 +133,7 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 * <span class="highlight-midnight">Invited Speaker,</span> IEEE Real-Time Communication Conference, Illinois Institute of Technology (2025)
   <a href="https://www.rtc-conference.com/2025/presentation/?hid=394" class="recognition-btn btn-article" target="_blank">📰 RTC Profile</a>
   <a href="https://www.youtube.com/watch?v=Ynjroddc8Kw&list=PLpKNVpFmUKiNO71_dRp1h43h2GFCJPQ9S" class="recognition-btn btn-video" target="_blank">🎥 Talk Video</a>
+  <a href="files/Mohapatra-RobustML_v2.pdf" class="recognition-btn btn-article" target="_blank">📋 Slides</a>
 
 * <span class="highlight-midnight">Speaker,</span> CoDEX Symposium, Northwestern University (2024)
   <a href="https://codex.northwestern.edu/program/lightning-talks/" class="recognition-btn btn-article" target="_blank">📰 Featured Article</a>

@@ -27,9 +27,10 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 <div class="scrollable-timeline">
   <ul>
+    <li><strong>Nov 2025</strong> – Submitted our paper <em>MOSAIC: A Robust Learning Framework with Modality-Aware Adaptive Pruning for Multimodal Dynamic Time Series</em> to Sensys.</li>
+    <li><strong>Nov 2025 🌟</strong> – Our paper <em>Phase-driven Generalizable Representation Learning for Nonstationary Time Series Classification</em> accepted at TMLR 2025 and TS4H Workshop at NeurIPS 2025 as a spotlight (top 9%).</li>
     <li><strong>Oct 2025</strong> – Received <em>Terminal Year Fellowship</em> at Northwestern University</li>
     <li><strong>Oct 2025</strong> – Invited talk at the <em>Real-time Communications Conference and Expo</em> at Illinois Institute of Technology</li>
-    <li><strong>Sept 2025</strong> – Our paper <em>Phase-driven Generalizable Representation Learning for Nonstationary Time Series Classification</em> accepted at TMLR 2025 and TS4H Workshop at NeurIPS 2025</li>
     <li><strong>Sept 2025 🌟</strong> – Our paper <em>MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series</em> accepted at NeurIPS 2025 as a spotlight (top 3%)</li>
     <li><strong>June 2025</strong> – Interning with Mitsubishi Electric Labs (MERL), Boston, MA as a Research Scientist. Reach out if you are here and want to collaborate (or just catch up over coffee ☕)</li>
     <li><strong>May 2025</strong> – Our paper <em>Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs</em> accepted at ACL Main Conference</li>
@@ -50,7 +51,7 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 <style>
 .scrollable-timeline {
-  height: 150px;
+  height: 250px;
   overflow-y: auto;
   border: 1px solid rgba($secondary-color, 0.3);
   padding: 15px;
@@ -99,7 +100,7 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 <div class="paper-card">
   <div class="paper-title">Phase-driven Generalizable Representation Learning for Nonstationary Time Series Classification</div>
-  <div class="paper-venue">TMLR 2025 & TS4H Workshop at NeurIPS 2025</div>
+  <div class="paper-venue">TMLR 2025 & TS4H Workshop at NeurIPS 2025<span class="paper-spotlight">🌟 Spotlight (Top 9%)</span></div>
   <div class="paper-authors">Payal Mohapatra, Lixu Wang, Qi Zhu</div>
   <div class="paper-buttons">
     <a href="https://openreview.net/forum?id=cb3nwoqLdd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)" class="paper-btn btn-highlight" target="_blank">OpenReview</a>

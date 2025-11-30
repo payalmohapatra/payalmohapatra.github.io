@@ -24,7 +24,7 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
   <div class="figure-container">
     <img src="/files/overview_2.png" alt="Career Overview: From Hardware Engineering to PhD Research" class="overview-figure">
-    <p class="figure-caption">Career overview</p>
+    
   </div>
 </div>
 

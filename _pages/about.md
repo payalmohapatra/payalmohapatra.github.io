@@ -23,10 +23,10 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
   <a href="/files/Payal_CV.pdf" target="_blank" class="btn-cv">review my CV</a> or <a href="mailto:payalmohapatra2026@u.northwestern.edu">contact me</a> to discuss opportunities.</p>
 </div>
 
-<!-- ## Career Summary -->
+## My Journey
 
 <div class="figure-container">
-  <img id="overviewImage" src="/files/overview_2.png" alt="Career Overview: From Hardware Engineering to PhD Research" class="overview-figure" onclick="openModal()">
+  <img id="overviewImage" src="/images/overview_2.png" alt="Career Overview: From Hardware Engineering to PhD Research" class="overview-figure" onclick="openModal()">
   <p class="figure-caption">Click to enlarge</p>
 </div>
 
@@ -41,7 +41,7 @@ function openModal() {
   const modal = document.getElementById("imageModal");
   const modalImg = document.getElementById("modalImage");
   const img = document.getElementById("overviewImage");
-  modal.style.display = "block";
+  modal.style.display = "flex";
   modalImg.src = img.src;
 }
 
@@ -50,13 +50,20 @@ function closeModal() {
   modal.style.display = "none";
 }
 
-// Close modal when clicking outside the image
-window.onclick = function(event) {
+// Close modal when clicking on the background (but not the image)
+document.addEventListener('click', function(event) {
   const modal = document.getElementById("imageModal");
-  if (event.target == modal) {
-    modal.style.display = "none";
+  if (modal && event.target === modal) {
+    closeModal();
   }
-}
+});
+
+// Close modal when pressing Escape key
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'Escape') {
+    closeModal();
+  }
+});
 </script>
 
 <style>
@@ -91,36 +98,58 @@ window.onclick = function(event) {
   display: none;
   position: fixed;
   z-index: 1000;
-  padding-top: 50px;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.85);
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.modal.show {
+  display: flex;
 }
 
 .modal-content {
-  margin: auto;
-  display: block;
-  max-width: 90%;
+  max-width: 95%;
   max-height: 90vh;
   object-fit: contain;
+  border-radius: 4px;
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .close {
   position: absolute;
   top: 20px;
-  right: 35px;
+  right: 30px;
   color: white;
   font-size: 40px;
   font-weight: bold;
   cursor: pointer;
   z-index: 1001;
+  background: none;
+  border: none;
+  padding: 0;
+  transition: color 0.2s ease;
 }
 
 .close:hover,
 .close:focus {
-  color: #ccc;
+  color: #bbb;
+  outline: none;
 }
 </style>
 

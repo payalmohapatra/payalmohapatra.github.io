@@ -32,7 +32,7 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 <div class="scrollable-timeline">
   <ul>
-    <li><strong>Nov 2025</strong> – Submitted our paper <em>MOSAIC: A Robust Learning Framework with Modality-Aware Adaptive Pruning for Multimodal Dynamic Time Series</em> to Sensys.</li>
+    <li><strong>Nov 2025</strong> – Our paper <em>TimeSliver: Symbolic-Linear Decomposition for Explainable Time-series Classification</em> is accepted at ICLR 2026.</li>
     <li><strong>Nov 2025 🌟</strong> – Our paper <em>Phase-driven Generalizable Representation Learning for Nonstationary Time Series Classification</em> accepted at TMLR 2025 and TS4H Workshop at NeurIPS 2025 as a spotlight (top 9%).</li>
     <li><strong>Oct 2025</strong> – Received <em>Terminal Year Fellowship</em> at Northwestern University</li>
     <li><strong>Oct 2025</strong> – Invited talk at the <em>Real-time Communications Conference and Expo</em> at Illinois Institute of Technology</li>

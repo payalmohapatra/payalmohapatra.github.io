@@ -32,6 +32,10 @@ From 2017 to 2021, I was a Design Engineer at Analog Devices Inc., where I worke
 
 <div class="scrollable-timeline">
   <ul>
+    <!-- <li><strong>May 2025</strong> – Defended my dissertation on <em>Efficient and Robust ML for Time Series</em>.</li> -->
+    <li><strong>May 2025</strong> – Submitted papers on efficient test-time adaptation for multimodal time-series applications, modality-aware efficient multi-resolution compression for time-series, and a new finding of attention drift in speculative decoding to NeurIPS.</li>
+    <li><strong>April 2025 🏆</strong> – Selected as ML and Systems Rising Star by <a href="https://mlcommons.org/2026/05/2026-rising-stars/" target="_blank">ML Commons</a>.</li>
+    <li><strong>March 2025</strong> – New work on <em><a href="https://arxiv.org/abs/2604.08971" target="_blank">Modality-Aware Zero-Shot Pruning and Sparse Attention for Efficient Multimodal Edge Inference</a></em> released!</li>
     <li><strong>Nov 2025</strong> – Our paper <em>TimeSliver: Symbolic-Linear Decomposition for Explainable Time-series Classification</em> is accepted at ICLR 2026.</li>
     <li><strong>Nov 2025 🌟</strong> – Our paper <em>Phase-driven Generalizable Representation Learning for Nonstationary Time Series Classification</em> accepted at TMLR 2025 and TS4H Workshop at NeurIPS 2025 as a spotlight (top 9%).</li>
     <li><strong>Oct 2025</strong> – Received <em>Terminal Year Fellowship</em> at Northwestern University</li>
